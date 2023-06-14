@@ -911,7 +911,7 @@ content,SENTIMEN
 "['cepat', 'dan', 'sesuai', 'pesanan']",positif
 "['dengan', 'adanya', 'shopee', 'bersama', 'fitur', 'nya', 'yg', 'oke', 'saya', 'benar', 'benar', 'merasa', 'terbantu', 'dlm', 'berbisnis']",positif
 ['trimakasih'],positif
-['iu'],ngatif
+['iu'],negatif
 ['ok'],positif
 ['baik'],positif
 "['oke', 'lah', 'harga', 'murah', 'murah']",positif
