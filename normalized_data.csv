@@ -1,0 +1,1001 @@
+content,SENTIMEN
+"['super', 'the', 'best', 'banget', 'dan', 'puas', 'belanja', 'di', 'shoppe']",positif
+"['senang', 'berbelanja', 'di', 'shoope', 'tingkatkan', 'terus', 'pelayanannya']",positif
+"['allahu', 'akbar', 'semoga', 'saya', 'dapat', 'mobil']",positif
+"['sangat', 'bagus', 'untuk', 'semuanya']",positif
+"['sangat', 'lemot']",negatif
+"['nice', 'job']",positif
+['jos'],positif
+['josmantab'],positif
+"['aplikasi', 'shopee', 'sangat', 'bermanfaat', 'sekali']",positif
+"['belanja', 'jadi', 'lebih', 'mudahdari', 'jauh', 'bisa', 'memberi', 'hadiah', 'buat', 'keluarga']",positif
+"['ui', 'serves', 'ampas']",negatif
+"['shopee', 'mendukung', 'penjual-penjual', 'penipu', 'yg', 'sangat', 'merugikan', 'pembeli']",negatif
+"['good', 'job']",positif
+"['tingkat', 'keamanan', 'menyulitkan', 'pengguna', 'karna', 'kita', 'tidak', 'bisa', 'melakukan', 'transaksi', 'diakun', 'kita', 'sendiri', 'jika', 'terdeteksi', 'baru', 'login', 'diperangkat', 'baru', 'padahal', 'saya', 'sendiri', 'pemilik', 'akun', 'tsb', 'hanya', 'karna', 'saya', 'mereset', 'hp', 'saya', 'lalu', 'saya', 'tidak', 'bisa', 'melakukan', 'transaksi']",negatif
+['trh'],negatif
+"['sangat', 'membantu', 'buat', 'para', 'pejuang', 'rupiah']",positif
+"['sangat', 'bermanfaat', 'bagi', 'yang', 'memerlukan', 'pembelian', 'yang', 'sulit', 'dicari', 'di', 'kota', 'dekat']",positif
+['bagus'],positif
+"['bagi', 'kan', 'saya', 'banyak', 'koin']",positif
+"['shopping', 'jadi', 'mudah', 'di', 'shopee']",positif
+"['aplikasi', 'paling', 'jelek', 'sekali', 'ini', 'shope', 'jelek', 'lemot']",negatif
+['cakep'],positif
+"['shopy', 'pntk']",negatif
+"['sangat', 'membantu']",positif
+['suka'],positif
+"['shopee', 'adalah', 'marketplace', 'yang', 'paling', 'lemot', 'dan', 'ngebug', 'parah', 'sedunia', 'orang', 'klik', 'apa', 'dianya', 'keluar', 'apa', 'parah', 'mau', 'bayar', 'pake', 'shopee', 'pay', 'loadingnya', 'mau', 'nunggu', 'abad', 'aplikasi', 'paling', 'lemot', 'lemot', 'lemot', 'dr', 'pada', 'yg', 'lain', 'bye']",negatif
+"['lalod', 'aplikasinya']",negatif
+"['lola', 'mo', 'pembayaran', 'muter', 'mulu']",negatif
+"['promo', 'diawal', 'saja', 'sudah', 'menipu', 'chat', 'cs', 'tidak', 'solutif', 'masalah', 'dilempar', 'sana', 'sini', 'sampai', 'nunggu', 'beberapa', 'hari', 'cuma', 'karena', 'perihal', 'promo', 'yg', 'belum', 'saya', 'gunakan', 'tapi', 'dari', 'pihak', 'shopee', 'menolak', 'karena', 'pernah', 'dipakai', 'padahal', 'saya', 'baru', 'download', 'dan', 'aktivasi', 'akun', 'serta', 'pakai', 'promo', 'itu', 'cuma', 'jeda', 'beberapa', 'menit', 'banyak', 'nipunya', 'cs', 'gak', 'solutif', 'aplikasi', 'pun', 'terlalu', 'berat', 'tidak', 'nyaman', 'mau', 'kirim', 'bukti', 'kesalahan', 'dari', 'pihak', 'shopee', 'tapi', 'sayang', 'disini', 'tidak', 'bisa', 'kirkm', 'foto', 'buat', 'bukti']",negatif
+"['kecewa', 'sama', 'aplikasi', 'shopi', 'knpa', 'gabisa', 'isi', 'saldo', 'pulsa', 'lagi', 'tolong', 'di', 'perbaiki']",negatif
+"['bisa', 'gak', 'sih', 'ongkir', 'buat', 'shopee', 'food', 'gausah', 'mahal', 'kali', 'untuk', 'sekali', 'makan', 'aja', 'setara', 'sama', 'belu', 'beras', 'kilo', 'padahal', 'makanan', 'yg', 'dibeli', 'murah', 'aja', 'ongkir', 'sama', 'biaya', 'lain', 'lainnya', 'yg', 'bikin', 'mahal']",negatif
+"['mana', 'gratis', 'ongkir', 'oi', 'masa', 'gratis', 'ongkir', 'beli', 'itu', 'namannya', 'bukan', 'gratis', 'ongkir', 'sialan', 'aplikasi', 'ini', 'kayak', 'bauk', 'mau', 'di', 'apus', 'ni']",negatif
+"['uda', 'pake', 'aplikasi', 'ini', 'tapi', 'iklan', 'muncul', 'trs', 'di', 'beranda', 'hp', 'saya', 'gak', 'masuk']",negatif
+['baik'],positif
+['mantap'],positif
+['bagus'],positif
+"['tambah', 'lagi', 'dong', 'pocer', 'nya']",negatif 
+"['aplikasinya', 'lemot']",negatif
+"['axel', 'pk', 'br', 'slm', 'pth', 'slm', 'pth']",positif
+['bagus'],positif
+"['buruk', 'ngajuin', 'spaylager', 'gabisa', 'bisa', 'udah', 'berpuluh', 'puluh', 'kali', 'padahal', 'sering', 'pake', 'shope']",negatif
+"['matul', 'bgt']",positif
+[],positif
+"['forum', 'yg', 'good', 'lah', 'untuk', 'menjual', 'dan', 'beli', 'terpercaya', 'so', 'good', 'lah']",positif
+['oke'],positif 
+"['aplikasi', 'gak', 'jelas', 'banget', 'berat', 'banget', 'woyy', 'lelet', 'muter²', 'terus', 'gak', 'guna']",negatif
+"['kenapa', 'sih', 'shopee', 'tuh', 'lemot', 'banget', 'bikin', 'kesel']",negatif
+"['makin', 'aneh']",negatif
+"['aplikasi', 'cacat', 'kebanyakan', 'fitur', 'gajelas', 'bikin', 'seller', 'berjualan', 'lemot', 'beda', 'kaya', 'toko', 'ijo', 'ringan', 'enak', 'karna', 'fokus', 'buat', 'jual', 'beli', 'apalagi', 'fitur', 'shopee', 'video', 'ngikutin', 'tiktok', 'makin', 'bikin', 'lemot', 'mau', 'pake', 'sinyal', 'juga', 'serakah', 'banget', 'pengen', 'punya', 'segalanya', 'dalam', 'aplikasi', 'tapi', 'aplikasi', 'gapernah', 'di', 'upgrade', 'coba', 'pengembang', 'aplikasinya', 'suruh', 'cobain', 'make', 'aplikasinya', 'sendiri', 'pasti', 'geregetan']",negatif
+"['tinggalin', 'shoopee', 'aja', 'rame²apk', 'sdh', 'gak', 'jelaslemodgak', 'kek', 'dulu', 'lagikek', 'apk', 'sampah']",negatif
+"['puas', 'atas', 'layanan', 'cod', 'nya']",positif
+['mantappppp'],positif
+"['gak', 'ribet', 'buat', 'belanja']",positif
+"['kalo', 'pasang', 'iklan', 'gak', 'ngotak', '-tombol', 'close', 'kecil', '-', 'iklan', 'detik', 'closenya', 'ampe', '-gak', 'di', 'pencet', 'ngarah', 'sendiri', 'ke', 'playstore', 'hahaha', 'miskin', 'amat', 'lu', 'tong']",negatif
+"['agak', 'lemotvideo', 'juga', 'di', 'klik', 'komen', 'susah']",negatif
+"['mudah', 'dan', 'terpercaya', 'aman']",positif
+"['sering', 'lemot']",negatif
+"['lola', 'bgt', 'skrng', 'aplikasinya', 'kebanyakan', 'fitur', 'capek', 'aku', 'cari', 'brg', 'ga', 'bisa', 'sat', 'set', 'ngeblank', 'mulu']",negatif
+['mantul'],positif
+['ok'],positif
+"['aku', 'suka', 'aplikasi', 'shopee', 'karena', 'selain', 'murah', 'juga', 'sering', 'dapet', 'gratisan', 'ongkir']",positif
+"['banyak', 'penipuan', 'di', 'shopee', 'udh', 'sering', 'bngt', 'kena', 'tipu', 'toko', 'di', 'shopee']",negatif
+"['pelayanan', 'bagus', 'tapi', 'gak', 'pernah', 'dapat', 'shopepay']",
+"['namanya', 'doang', 'shope', 'expres', 'paket', 'stak', 'di', 'cileungsi', 'udah', 'hari', 'kaga', 'jalan', 'jalan']",negatif
+"['saya', 'suka', 'menggunakan', 'shopee', 'ketika', 'belanja', 'online', 'prosesnya', 'cepat', 'tanggap', 'terima', 'kasih', 'shopee']",positif
+"['shopee', 'no']",positif
+['okk'],positif
+"['alahamdulillah', 'shopee', 'aman']",positif
+['ok'],positif
+"['terimakasih', 'shopee']",positif
+"['waspadalah', 'pakai', 'apk', 'shoope', 'ini', 'anda', 'akan', 'terkena', 'rancunnya', 'seoerti', 'saya', 'ini', 'dengan', 'gratis', 'ongkirnya', 'tiap', 'hari', 'batang', 'murah', 'dan', 'berkualitas']",positif
+"['sejauh', 'ini', 'cukup', 'puas']",positif
+"['sangat', 'membantu']",positif
+"['sangat', 'bagus']",positif
+"['login', 'diakun', 'sendiri', 'malah', 'minta', 'scan', 'sedangkan', 'login', 'aja', 'gabisa', 'gimana', 'mau', 'scan', 'ribet', 'mending', 'pake', 'apk', 'ijo']",negatif
+"['kenapa', 'yah', 'punya', 'aku', 'sekarang', 'ga', 'bisa', 'di', 'buka', 'ga', 'ada', 'muncul', 'apa²', 'padahal', 'mau', 'ngecek', 'pesanan', 'mau', 'cek', 'out', 'juga', 'ga', 'bisa', 'gimana', 'dong']",negatif
+"['mantap', 'pokoknya', 'belanja', 'di', 'shopee']",positif
+"['iklanya', 'alai', 'banget']",negatif
+['bagus'],positif
+"['god', 'job']",positif
+"['semakin', 'tidak', 'bagusmahal', 'mahal', 'semua', 'ongkir', 'dan', 'barang', 'di', 'shopekwalitas', 'barang', 'ny', 'pun', 'sekarang', 'gak', 'ada', 'yang', 'bagus']",negatif
+"['kalau', 'bikin', 'iklan', 'di', 'game', 'yang', 'ngotak', 'dikit', 'lah']",negatif
+['bagus'],positif
+"['be', 'de', 'bes', 'ngentid', 'mentol', 'jiwa']",negatif
+"['terimakasih', 'alhamdulillah', 'baik', 'dari', 'wan', 'al']",positif
+"['aplikasi', 'ny', 'udah', 'bgus', 'msalah', 'ny', 'hnya', 'tinggal', 'kurir', 'ny', 'yg', 'mngkin', 'gk', 'ada', 'sop', 'ny', 'klu', 'kerja', 'barang', 'blm', 'tiba', 'di', 'tempat', 'tujuan', 'malah', 'mau', 'di', 'kembalikan', 'ke', 'toko', 'ny', 'dengan', 'alasan', 'pembeli', 'tidak', 'dapat', 'di', 'hubungi', 'kan', 'gilak', 'atau', 'karena', 'saya', 'pesan', 'paket', 'pakai', 'voucher', 'ya', 'makany', 'mereka', 'kek', 'gtu', 'kerjanya', 'tolong', 'lh', 'pihak', 'shopee', 'lebih', 'cepat', 'di', 'respon', 'status', 'barang', 'di', 'kirim', 'dan', 'nomor', 'telepon', 'kurir', 'ny']",negatif 
+"['nyesel', 'banget', 'top', 'up', 'malah', 'tolol', 'apknya']",negatif
+['patennn'],positif
+"['puas', 'blnja', 'dsni', 'byk', 'voucher', 'nya']",positif
+"['ngotak', 'dikit', 'lah', 'apaan', 'mau', 'isi', 'pulsa', 'tiba²', 'ga', 'bisa', 'di', 'proses']",negatif
+"['begitu', 'klik', 'bayar', 'sekarang', 'langsung', 'terhubung', 'dengan', 'seabank', 'dan', 'tidak', 'ada', 'opsi', 'bank', 'lain', 'customer', 'service', 'tidak', 'bisa', 'dihubungi', 'yang', 'menjawab', 'mesin', 'dengan', 'pertanyaan', 'dan', 'jawaban', 'default', 'sehingga', 'tidak', 'bisa', 'membantu', 'sudah', 'kebanyakan', 'pelanggan', 'kayaknya', 'nggak', 'butuh', 'saya', 'lagi', 'bye', 'sophee']",negatif
+"['sangat', 'membantu']",positif
+"['untuk', 'para', 'customer', 'diharap', 'lebih', 'bijak', 'lagi', 'dalam', 'memilih', 'toko', 'saat', 'membeli', 'barangsoalnya', 'penjualan', 'ramai', 'gak', 'menjamin', 'barang', 'itu', 'bagusapalagi', 'untuk', 'barang', 'elektronikkalo', 'bisa', 'harus', 'dari', 'shopee', 'official', 'atau', 'shopee', 'mallsoalnya', 'banyak', 'toko', 'dengan', 'barang', 'elektroniknya', 'jadi', 'no', 'penjualan', 'tapi', 'kualitas', 'barangnya', 'jelekbekasatau', 'bahkan', 'pernah', 'dapet', 'barang', 'palsu', 'yang', 'dah', 'gak', 'berfungsihanya', 'sekedar', 'pengingat', 'buat', 'customer', 'supaya', 'lebih', 'teliti', 'dalam', 'membeli', 'barang']",negatif 
+"['suka', 'ngelag']",negatif
+"['pdhl', 'dlu', 'apk', 'olshop', 'favorit', 'sekarang', 'stlh', 'di', 'update', 'mlh', 'shopeepay', 'plus', 'nya', 'gak', 'bisa', 'dibuka', 'huh', 'kecewa', 'bgt']",negatif
+"['saya', 'suka', 'belanja', 'di', 'shopee']",positif
+['oo'],positif
+['mantap'],positif
+"['bagus', 'sekali', 'aplikasinya', 'dan', 'sip']",positif
+"['lelet', 'berat']",negatif
+"['pengguna', 'setia', 'shope']",positif
+['terpercaya'],positif
+"['makin', 'lemot', 'aplikasinya', 'buka', 'shopee', 'serasa', 'main', 'genshin', 'impact', 'resulusi', 'hd', 'pake', 'hp', 'ram', 'gb', 'signal', 'bagus', 'aja', 'lemot', 'apalagi', 'pas', 'jelek', 'makin', 'lemot', 'kayak', 'akslerasi', 'scoopy', 'new', 'awokwokwok']",negatif
+"['bagus', 'bang']",positif
+"['shoope', 'bagus', 'dan', 'barang', 'nya', 'terjamin', 'kualitas', 'bagus']",positif
+"['klo', 'bisa', 'di', 'adain', 'voucer', 'diskon', 'kak', 'buat', 'pengguna', 'baruu']",positif 
+"['bagus', 'aplikasinya']",positif
+['bagis'],positif
+"['pelayanan', 'nyaman', 'pengiriman', 'rapih', 'dan', 'cepat']",positif
+['asyiiiappo'],positif
+"['aplikasi', 'yang', 'sangat', 'bagus', 'buat', 'orang', 'orang', 'yg', 'mau', 'belanja', 'hemat', 'dan', 'kualitas', 'bagus']",positif
+"['kamuu', 'nanyaaaaaa']",negatif
+"['sangat', 'membantu']",positif
+"['sistem', 'shoope', 'pay', 'tidak', 'berjalan', 'dengan', 'baik']",negatif
+['siiiiplah'],positif
+"['mampir', 'ya']",positif 
+"['lumayan', 'adapeningkatan', 'layanan']",positif
+"['sistem', 'tidak', 'berjalan', 'bagus', 'untuk', 'shoope', 'pay']",negatif
+['ok'],positif
+['keren'],positif
+['vvb'],negatif
+"['sering', 'delay', 'sinyalku', 'kpn', 'pdhl', 'aku', 'senang', 'banget', 'belanja', 'disini', 'lohhh']",positif
+"['sangat', 'suka']",positif
+"['mengapa', 'skrang', 'pesan', 'shoppe', 'foodtidk', 'tersedia', 'pembayaran', 'untk', 'paylater']",negatif
+"['spaylater', 'sudah', 'di', 'lunasi', 'dari', 'tahun', 'kemarin', 'masih', 'saja', 'di', 'blokir', 'maaf', 'kasih', 'bintang', 'pelayanan', 'kurang', 'memuaskan', 'customer']",negatif
+"['memang', 'belum', 'lama', 'bergabung', 'di', 'shopee', 'mungkin', 'baru', 'sekitar', 'dua', 'tahun', 'memiliki', 'dan', 'mengelola', 'toko', 'online', 'dan', 'terkadang', 'melakukan', 'transaksi', 'pembelian', 'juga', 'dari', 'toko', 'lain', 'sejauh', 'ini', 'bagus', 'hanya', 'yg', 'ckup', 'mengecewakan', 'adalah', 'sulitnya', 'melakukan', 'pinjaman', 'dari', 'aplikasi', 'yg', 'di', 'sediakan', 'di', 'shopee']",positif
+['alhamdulillah'],positif
+"['aplikasi', 'nya', 'kurang', 'bagus', 'setiap', 'mau', 'login', 'ke', 'akun', 'pasti', 'selalu', 'ada', 'bacaan', 'blokir']",negatif
+"['yg', 'penting', 'bahagia']",positif
+"['sangat', 'membantu']",positif
+"['bagus', 'ok', 'bye']",positif
+['keren'],positif
+['bagus'],positif
+['ok'],positif
+"['bagus', 'benget', 'mudah', 'untuk', 'belanja', 'online']",positif
+"['shope', 'mantap']",positif
+"['aplikasi', 'sangat', 'berat', 'sekali', 'susah', 'milih', 'milih', 'barang', 'kalo', 'mau', 'belanja']",positif
+['bgusss'],positif
+"['noo', 'shopee', 'nggak', 'seperti', 'yang', 'kalian', 'kira']",negatif
+['baik'],positif
+"['sebenarnya', 'shopee', 'sangat', 'bagus', 'untuk', 'jualan', 'online', 'cuma', 'sekarang', 'ini', 'aplikasinya', 'agak', 'lemot', 'sehingga', 'menganggu', 'untuk', 'update', 'produk', 'apakah', 'ada', 'obatnya', 'padahal', 'jaringan', 'bagus']",positif
+"['aplikasi', 'keren']",positif
+"['sangat', 'bagus', 'shopee']",positif
+['mantap'],positif
+"['opsi', 'pengiriman', 'loading', 'nya', 'lama']",negatif
+['nice'],positif
+"['cod', 'gak', 'bisakatanya', 'karena', 'barang', 'ggl', 'dikirim', 'dan', 'di', 'kembalikanalasanya', 'gk', 'masuk', 'akal', 'padahal', 'yg', 'bermasalah', 'jasa', 'kirim', 'shope', 'sendiri', 'pada', 'mengundurkan', 'diri', 'jadi', 'pesanan', 'gk', 'diantaraneh']",negatif
+"['sekarang', 'shopee', 'jdi', 'byak', 'biaya', 'tambahan', 'dan', 'voucher', 'gratis', 'ongkir', 'gk', 'sebanyak', 'dlu']",negatif
+"['kacau', 'nih', 'kalo', 'jadi', 'sellernya', 'barang', 'rusak', 'sama', 'ekspedisi', 'yang', 'di', 'ganti', 'cuma', 'buat', 'pembeli', 'untuk', 'seller', 'susah', 'banget', 'suruh', 'menunggu', 'terus', 'di', 'ganti', 'mah', 'kaga']",negatif
+"['suka', 'pake', 'shopee']",positif
+"['shopee', 'semakin', 'kesini', 'semakin', 'pelit', 'saya', 'sudah', 'member', 'platinum', 'cuma', 'diberi', 'gratis', 'ongkir', 'untuk', 'minggu', 'itu', 'pun', 'gratis', 'nya', 'cuma']",negatif
+"['banyak', 'eror', 'sekarang', 'gak', 'kayak', 'dulu', 'sering', 'leg', 'makin', 'di', 'update', 'makin', 'parah', 'sangat', 'kecewa', 'dan', 'diskon', 'nya', 'pun', 'sangat', 'tidak', 'puas', 'dan', 'ongkir', 'pun', 'mahal', 'sekarang', 'sangat', 'sangat', 'kecewa', 'banget']",negatif
+"['aplikasinya', 'kelamaan', 'loading', 'apalgi', 'bagian', 'pembayaran', 'pdahal', 'jaringan', 'full']",negatif
+"['blanja', 'makin', 'simple']",positif
+['lemot'],negatif
+['mantap'],positif
+"['shoppe', 'penipu']",negatif
+['oke'],positif
+['bagus'],positif
+"['sy', 'termasuk', 'belum', 'lama', 'di', 'shopee', 'dulu', 'kurang', 'tertarik', 'ternyata', 'belanja', 'di', 'shopee', 'menyenangkan', 'salam', 'sukses']",positif
+"['apk', 'yg', 'sngt', 'bguss', 'sya', 'tdk', 'mnyesal', 'mendownload', 'shopee']",positif
+"['ngelag', 'kali', 'apk', 'ny']",negatif
+"['mantab', 'mudah', 'digunakan']",positif
+['ok'],positif
+"['untuk', 'hp', 'spek', 'lumayan', 'tetap', 'lemot', 'tolong', 'pihak', 'dev', 'dengarkan', 'saran-saran', 'kami', 'para', 'user', 'reels', 'gk', 'jelas', 'video', 'gk', 'jelas', 'diupload', 'yg', 'bukan', 'produk', 'dijual', 'hapus', 'aja', 'reels', 'klo', 'live', 'msh', 'gapapa', 'tp', 'tetap', 'perbaiki', 'agar', 'lebih', 'stabil', 'jgn', 'fitur', 'mulu', 'tp', 'gk', 'peduli', 'user']",negatif
+"['good', 'job']",positif
+['bagusss'],positif
+"['shopee', 'keren']",positif
+"['soo', 'far', 'so', 'good', 'tolong', 'di', 'filter', 'lagi', 'toko', 'yg', 'nakal', 'donk']",positif
+"['yang', 'bilang', 'apk', 'ini', 'lelet', 'itu', 'hpnya', 'aja', 'ini', 'hp', 'ku', 'nggk', 'lelet']",positif
+"['hemmm', 'yes']",positif
+['good'],positif
+['mantap'],positif
+['good'],positif
+"['mntap', 'lnjut', 'kan', 'smoga', 'mkin', 'jaya']",positif
+"['bgus', 'bgt']",positif
+"['untuk', 'yang', 'shopee', 'food', 'biaya', 'layanan', 'mungkin', 'bisa', 'di', 'ubah', 'jadi', 'atau', 'kalau', 'menurut', 'saya', 'itu', 'terlalu', 'mahal', 'ini', 'untuk', 'daerah', 'sidoarjo', 'ya', 'gak', 'tau', 'kalau', 'di', 'daerah', 'lain', 'berbeda']",negatif
+"['parahhh', 'aplikasi', 'ini', 'lemot', 'dehhh', 'sdh', 'beberapa', 'kali', 'upgrade', 'haduhhh', 'bikin', 'rugi', 'dan', 'cape', 'hati']",negatif
+"['bintang', 'yang', 'berbicara']",negatif 
+"['shopee', 'agak', 'lemot', 'makanya', 'saya', 'kasih', 'bintang']",negatif
+"['mohon', 'pihak', 'shopee', 'di', 'cek', 'ulang', 'aplikasinya', 'semakin', 'di', 'update', 'semakin', 'lelet', 'dan', 'berat', 'sulit', 'untuk', 'membuka', 'aplikasinya', 'kami', 'pemakai', 'shopee', 'terasa', 'tidak', 'nyaman', 'dan', 'sulit', 'untuk', 'bertraksaksi', 'mohon', 'di', 'cek', 'kembali', 'agar', 'para', 'memakai', 'aplikasi', 'shopee', 'lebih', 'nyaman', 'terima', 'kasih']",negatif
+"['sopi', 'edan']",negatif
+"['lelet', 'lemot']",negatif
+"['mungkin', 'ini', 'dikeluhkan', 'banyak', 'user', 'shopee', 'tolonglah', 'adakan', 'fitur', 'untuk', 'bisa', 'on', 'dan', 'off', 'agar', 'para', 'user', 'bisa', 'milih', 'atau', 'enggaknya', 'nerima/nonton', 'fitur', 'shoppe', 'live', 'dan', 'shoppe', 'video', 'dengan', 'adanya', 'kedua', 'fitur', 'tadi', 'langsung', 'shopee', 'terasa', 'berat', 'lag', 'dan', 'sering', 'ghost', 'touch', 'sehingga', 'kelancaran', 'dan', 'kecepatan', 'ketika', 'shopee', 'diperlukan', 'terasa', 'ribet', 'sering', 'lola', 'nya', 'karena', 'gak', 'semua', 'user', 'shopee', 'pastinya', 'yang', 'suka', 'klik', 'dan', 'nonton', 'shopee', 'live', 'dan', 'shoppe', 'video', 'trima']",negatif
+"['spinjam', 'ku', 'kok', 'belum', 'aktif', 'yaa', 'dan', 'knp', 'payleter', 'ku', 'saja', 'yg', 'semakin', 'bertambah', 'limit', 'nya']",negatif
+"['untuk', 'saat', 'ini', 'lumayan', 'pertahankan']",positif
+['antap'],positif
+"['seneng', 'banget', 'shoper', 'byk', 'gratis', 'ongkir', 'nya']",positif
+"['kalau', 'ada', 'penilaian', 'minus', 'bintang', 'saya', 'pilih', 'minus', 'bintang', 'deh', 'soalnya', 'sekarang', 'topup', 'shopeepay', 'pake', 'kode', 'otp', 'segala', 'no', 'spay', 'saya', 'aktip', 'jaringan', 'hp', 'saya', 'bagus', 'tapi', 'tetep', 'engga', 'ada', 'no', 'otp', 'udh', 'berkali-kali', 'kirim', 'ulang', 'ttp', 'engga', 'ada', 'mending', 'balikin', 'lagi', 'kaya', 'bulan', 'lalu', 'engga', 'ada', 'verif', 'no', 'hp', 'lancar', 'ajh', 'tuh', 'jadi', 'imbasnya', 'sekarang', 'saya', 'engga', 'pake', 'spay', 'lagi', 'pdhal', 'overall', 'semua', 'fitur', 'ny', 'shopee', 'berguna', 'bagi', 'kehidupan', 'saya']",negatif
+"['download', 'nya', 'lama']",negatif
+"['suka', 'aja', 'dengan', 'shopee']",positif
+['ok'],positif
+"['transfer', 'dari', 'dana', 'ke', 'shopeepay', 'biaya', 'dari', 'dana', 'jadinya', 'kan', 'trus', 'yang', 'masuk', 'ke', 'shopeepay', 'nya', 'cuman', 'kan', 'aneh', 'gitu', 'protes', 'ke', 'cs', 'katanya', 'potongan', 'rb', 'dari', 'dananya', 'saya', 'ss', 'lah', 'yang', 'di', 'dananya', 'jelas', 'tertulis', 'rupiah', 'cs', 'nya', 'malah', 'bingung', 'masalah', 'gk', 'terselesaikan', 'sama', 'sekali', 'gak', 'ada', 'pemberitahuan', 'potongan', 'sekian', 'eh', 'tiba', 'dipotong', 'kecewa', 'parah']",negatif
+"['update', 'entahlah', 'siapa', 'yg', 'membuat', 'aplikasi', 'ini', 'di', 'indonesia', 'padahal', 'copas', 'deskripsi', 'dari', 'note', 'sudah', 'kedetect', 'pelanggaran', 'kayak', 'apkmu', 'gak', 'berat', 'sekali', 'klik', 'saja', 'nunggu', 'sambil', 'kerja', 'yg', 'lain', 'bisa', 'makanya', 'di', 'amati', 'detail', 'semua', 'deskripsi', 'produk', 'semua', 'nya', 'singkat²', 'shope', 'tidak', 'mau', 'belajar', 'dari', 'senior²nya', 'yg', 'sudah', 'ada', 'tulis', 'deskripsi', 'agak', 'panjang', 'koneksi', 'putus', 'itu', 'tolol', 'namanya', 'bukannya', 'deskripsi', 'itu', 'penting', 'apk', 'sotoy', 'kebanyakan', 'pola', 'dan', 'tingkah', 'terutama', 'yg', 'membuat', 'apknya', 'kebanyakan', 'model']",negatif
+"['saya', 'harap', 'nggak', 'usah', 'ada', 'status', 'video', 'di', 'shopee', 'itu', 'membuat', 'jaringan', 'internet', 'shopee', 'jadi', 'lemah', 'membuat', 'pengguna', 'nggak', 'nyaman']",negatif 
+['mantap'],positif
+['mantap'],positif
+"['bonus', 'shoppe', 'video', 'nya', 'kok', 'diubah', 'jadi', 'koin', 'sih', 'jadi', 'gak', 'bagus', 'kalau', 'hadiah', 'nya', 'koin', 'bukan', 'uang', 'jadi', 'gak', 'semangat', 'buka', 'shoppe', 'nya']",negatif
+"['kenapa', 'yaa', 'buka', 'shopee', 'malah', 'kayak', 'error', 'dan', 'kedap', 'kedip', 'begitu', 'di', 'hp', 'saya', 'padahal', 'aplikasi', 'lain', 'baik-baik', 'aja', 'gak', 'ada', 'yg', 'error', 'mohon', 'bantuannya', 'dan', 'konfirmasinya', 'karna', 'saya', 'sebagai', 'seller', 'jadi', 'kebingungan', 'untuk', 'melakukan', 'jual', 'beli', 'karna', 'aplikasi', 'tidak', 'bisa', 'dijalankan', 'balasan', 'untuk', 'developer', 'saya', 'sudah', 'clear', 'cache', 'bahkan', 'instal', 'ulang', 'tp', 'aplikasi', 'tetap', 'gak', 'bisa', 'digunakan']",negatif
+"['aplikasinya', 'kurangi', 'dong', 'makin', 'di', 'update', 'makin', 'lemot', 'aja']",negatif
+"['banyak', 'iklan']",negatif
+"['aplykasi', 'bagus', 'tp', 'jika', 'buka', 'nya', 'berat', 'kenapa', 'ya']",negatif
+['mantap'],positif
+['bagus'],positif
+"['selama', 'belanja', 'di', 'shopie', 'alhmdulilah', 'slalu', 'sesuai', 'hrpan', 'smoga', 'shopie', 'mkin', 'amnh', 'brokah', 'lncar']",positif
+"['kami', 'lanjut']",positif
+[],negatif
+"['shopee', 'is', 'the', 'bestbelanja', 'di', 'shopee', 'mudahsuka', 'dan', 'murahthaks', 'shopee']",positif
+"['apa', 'gegara', 'abis', 'update', 'kenapa', 'malah', 'suka', 'ngelag', 'sama', 'banyak', 'nge-bug', 'nya', 'neh', 'aplikasi', 'masa', 'hape', 'ram', 'gede', 'aja', 'bisa', 'selelet', 'ini', 'perasaan', 'sinyal', 'juga', 'oke', 'sementara', 'bintang', 'dulu', 'mau', 'pake', 'online', 'shop', 'yg', 'laen', 'dulu', 'sampe', 'aplikasi', 'lancar', 'kembali']",negatif
+['good'],positif
+['awesome'],positif
+"['apk', 'lu', 'jelek', 'lemot', 'bgt', 'buka', 'yg', 'lain', 'lancar', 'jaya', 'ga', 'heran', 'si', 'ni', 'apk', 'bakalan', 'hancur', 'bakalan', 'hancurin', 'dev', 'nya', 'sendiri']",negatif
+"['ada', 'apa', 'sama', 'paylaternya']",positif
+"['sangat', 'bagus', 'dan', 'rekomendasi']",positif
+[],positif
+"['okke', 'shopee', 'good', 'job', 'sudah', 'lama', 'banget', 'pakai', 'shopee', 'saran', 'nya', 'harus', 'di', 'tingkatkan', 'lagi', 'untuk', 'shopepaylater', 'nya', 'sma', 'shopee', 'pinjam', 'nya', 'limit', 'nya', 'biar', 'besar']",positif
+"['sangat', 'menyenangkan']",positif
+"['banyak', 'banyakin', 'gratis', 'ongkirnya', 'ya', 'minsama', 'flas', 'salenya', 'ga', 'ngotak', 'jirrr', 'dlm', 'hitungan', 'menit', 'dah', 'habis']",positif
+"['berat', 'bngt', 'apknya', 'bikin', 'hp', 'ngehang']",negatif
+"['good', 'job']",positif
+['oke'],positif
+['lelettttt'],negatif
+"['semakin', 'sering', 'dipake', 'mlh', 'semakin', 'loading']",negatif
+['mantapp'],positif
+['lemot'],negatif
+['good'],positif
+"['kenapa', 'yaa', 'ga', 'bisaa', 'sistim', 'cod', 'padahal', 'kan', 'lumayan', 'loh', 'minn', 'ini', 'gratiss', 'ongkir', 'tapii', 'kenapa', 'ga', 'bisaa', 'cod', 'ahhhhhh', 'pliss', 'lahh', 'minn', 'sistem', 'cod', 'nya', 'nyalain']",negatif
+['good'],positif
+['lemott'],negatif
+"['payah', 'masa', 'mau', 'top', 'up', 'masa', 'batas', 'maximumnya', 'juta', 'wkwkk', 'duhh', 'bagusan', 'shopee', 'yang', 'lamaa', 'masih', 'bagusan', 'lapak', 'ijoo']",negatif
+"['ft', 'to', 'fc', 'vbkm', 'john', 'nutty', 'bu', 'bu', 'bbbbvccc', 'kfcnb', 'bui', 'tts', 'er', 'tts', 'yg', 'jet', 'swt', 'bet', 'get']",negatif
+"['sangat', 'membantu']",positif
+"['shoppe', 'sangat', 'menyenangkandlm', 'belanja', 'menonton', 'bermain', 'game']",positif
+['mantappppp'],positif
+"['mksh', 'shopee', 'mg', 'sukses', 'sllu']",positif
+['mantap'],positif
+"['overall', 'mantap', 'jiwa', 'ting', 'ting']",positif
+['lumayan'],positif
+['josss'],positif
+['mengganggu'],negatif
+"['aku', 'sukaaaaaa', 'shope']",positif
+"['hrga', 'terjangkau', 'murah']",positif
+"['aplikasinya', 'terlalu', 'berat', 'hp', 'cuna', 'ram', 'gb', 'mau', 'belanja', 'aja', 'minta', 'ampun', 'susahnya']",negatif
+"['lag', 'gak', 'jelas', 'shopee']",negatif
+"['kurangnya', 'driver', 'sehingga', 'saya', 'mau', 'pesan', 'makan', 'harus', 'nunggu', 'lama', 'dan', 'akhirnya', 'dicancel', 'aplikasinya', 'sendiri']",negatif
+"['sekarang', 'sudah', 'sekali', 'mau', 'pencarian', 'aj', 'lemott', 'banget', 'padahal', 'jaringan', 'stabil']",negatif
+"['sejauh', 'ini', 'alhamdulillah', 'blm', 'pernah', 'kecewa', 'dgn', 'barang', 'yg', 'dkirim', 'dari', 'shoppe', 'semua', 'datang', 'sesuai', 'pesanan']",positif
+[],positif
+['bagus'],positif
+"['belanja', 'amannyaman', 'tanpa', 'ribet']",positif
+['nyaman'],positif
+"['pengiriman', 'di', 'aplikasi', 'shopee', 'sangat', 'lambat']",negatif
+"['dia', 'lelet', 'kalo', 'di', 'buka', 'itu', 'suka', 'ngelag', 'maaf', 'biasanya', 'ada', 'kurangg']",negatif
+"['lemot', 'banget', 'setelah', 'di', 'update', 'eror', 'muter', 'gak', 'jelas', 'tolong', 'diperbaiki', 'lagi']",negatif
+"['mantap', 'jiwa']",positif
+"['belanja', 'online', 'jadi', 'gampang', '&', 'vocher', 'gratis', 'ongkirnya', 'oke']",positif
+['good'],positif
+"['sangat', 'memuaskan']",positif
+['ok'],positif
+['mantap'],positif
+['mantap'],positif
+"['josss', 'beli', 'apa', 'ajh', 'ada']",positif
+"['oke', 'lah']",positif
+['good'],positif
+"['aplikasi', 'bagus']",positif
+"['sangat', 'cocok']",positif
+"['ini', 'kenapa', 'bayar', 'shoopee', 'pinjam', 'separuh', 'dulu', 'tapi', 'nominal', 'pembayaranya', 'tetap', 'tidak', 'berubah', 'kebiasaan', 'aplikasinya', 'gini', 'terus', 'klo', 'bayar', 'seoaro', 'dulu', 'ngga', 'diperbaiki', 'perbaiki']",negatif
+"['shopee', 'live', 'dengan', 'slogan', 'mendadak', 'sultan', 'gak', 'cocok', 'reward', 'hanya', 'perak', 'per', 'menit', 'dan', 'akun', 'pun', 'sekarang', 'dibatasi', 'untuk', 'mendapatkan', 'reward', 'semakin', 'hari', 'semakin', 'gak', 'adil', 'kerasa', 'bener', 'perbedaan', 'pengguna', 'lama', 'dan', 'barunya']",negatif
+"['ngak', 'tapaiongghu', 'ngak', 'tapai']",negatif
+"['gak', 'pesen', 'barang', 'apa', 'apa', 'di', 'shopee', 'tiba', 'tiba', 'ada', 'kurir', 'nganterin', 'paket', 'cod', 'di', 'rumah', 'aneh', 'masa', 'bisa', 'ckout', 'sendir']",negatif
+"['iklan', 'nya', 'kebanyak', 'tololll', 'di', 'youtube', 'kebanyakan', 'iklann', 'goblokkkk']",negatif
+['bagus'],positif
+"['banyak', 'banget', 'diskon/voucher', 'shopeenya']",positif
+"['gk', 'bakal', 'lagi', 'gw', 'belanja', 'di', 'apk', 'ini', 'lgi', 'kapok', 'banget', 'gw']",negatif
+['keren'],positif
+['bagus'],positif
+[],positif
+['guwelakne'],negatif
+"['biar', 'bintang', 'yang', 'bicara', 'dulu']",positif
+"['terimakasih', 'kasih', 'shopee', 'saran', 'sedikit', 'saja', 'spy', 'bisa', 'men', 'download', 'video', 'di', 'shopee', 'lebih', 'mudah', 'untuk', 'keperluan', 'promo']",positif
+"['sangat', 'memuaskan']",positif
+"['banyak', 'kejutannya']",positif
+"['senang', 'dengan', 'shopee']",positif
+"['jos', 'markojos']",positif
+"['semoga', 'terus', 'baik', 'layanannya']",positif
+"['flashsale', 'hoax']",positif
+"['banyak', 'promo', 'ya']",positif
+['bagus'],positif
+"['sering', 'banyak', 'event', 'promo', 'sih', 'tapi', 'tiap', 'jam', 'promo', 'nya', 'pasti', 'aplikasinya', 'lemot', 'hahaha', 'produk', 'rupiah', 'belom', 'ada', 'menit', 'udah', 'habis', 'gabisa', 'di', 'checkout', 'tapi', 'setelah', 'dicek', 'lagi', 'ternyata', 'habisnya', 'dalam', 'kurun', 'waktu', 'menit']",negatif
+"['tidak', 'kompetitif']",negatif
+"['sinyal', 'saya', 'padahal', 'bagus', 'tapi', 'lemot', 'gimana', 'mau', 'menang', 'war', 'flash', 'sale', 'kalau', 'gini', 'min', 'payah']",negatif
+['ok'],positif
+"['kenapa', 'sih', 'shopee', 'ini', 'udh', 'mulai', 'eror', 'shopeelatter', 'saya', 'kenapa', 'pilihan', 'bayar', 'nanti', 'atau', 'bayar', 'bulan', 'depan', 'jadi', 'gak', 'ada', 'padahal', 'saya', 'bayar', 'selalu', 'tepat', 'waktu', 'kadang', 'buat', 'pikiran', 'jadi', 'males', 'mau', 'apa', 'pake', 'shopee', 'lagi', 'kalo', 'begini']",negatif
+"['tambah', 'lelet', 'setiap', 'bln', 'mesti', 'update', 'padahal', 'ini', 'tu', 'toko', 'online', 'cukup', 'bagus', 'sangat', 'sayang', 'kn']",negatif
+"['min', 'cara', 'daftar', 'agen', 'shopee', 'express', 'bagai', 'mana']",positif
+"['barang', 'ya', 'bagus']",positif
+"['pokoknya', 'shopee', 'best']",positif
+"['gembel', 'gak', 'pernah', 'telat', 'bayar', 'tapi', 'gak', 'bisa', 'upgrade', 'spaya', 'later']",negatif
+"['dulu', 'so', 'pelayanan', 'para', 'selernya', 'kurang', 'memuaskan', 'dan', 'aplikasinya', 'sangat', 'lamban', 'terlalu', 'banyak', 'konten', 'yg', 'ga', 'jelas']",negatif
+"['bagustapi', 'kenapa', 'sya', 'pake', 'spinjaman', 'ia']",positif
+['terbaik'],positif
+"['sangat', 'rekomended', 'bgttttttttttt']",positif
+"['tolong', 'di', 'perbaiki', 'lelet', 'banget']",negatif
+"['seneng', 'banget', 'belanja', 'di', 'sini', 'pelayanan', 'sangat', 'baik', 'dan', 'cepat']",positif
+['lelet'],negatif
+"['ini', 'tentang', 'voucher', 'gratis', 'ongkir', 'rupiah', 'tiba', 'tiba', 'pas', 'mau', 'check', 'out', 'nambah', 'lagi', 'tuh', 'ongkir', 'nya', 'ke', 'semula', 'se', 'akan', 'voucher', 'nya', 'gk', 'kepake', 'padahal', 'udh', 'dipake', 'ini', 'nge', 'bug', 'atau', 'gimana', 'toko', 'oren']",negatif
+['memuaskan'],positif
+"['pengirimannya', 'cepet', 'bgt', 'deh', 'tp', 'aplikasi', 'kek', 'berat', 'gitu', 'jadi', 'yh', 'bintang', 'dulu']",positif
+['ok'],positif 
+"['sangat', 'baik']",positif 
+['ok'],positif 
+['good'],positif
+"['kebanyakan', 'biaya', 'koin', 'shopee', 'ga', 'bs', 'dibuat', 'belanja', 'cuma', 'buat', 'motong', 'harga', 'ga', 'tulus']",negatif
+['mantap'],positif
+"['mantap', 'sangat', 'puas']",positif
+['oke'],positif
+"['makin', 'kesini', 'makin', 'gak', 'suka', 'sama', 'shopee', 'telat', 'bayar', 'tagihan', 'saja', 'sampe', 'akun', 'dibatasi', 'gak', 'bisa', 'belanja', 'lagi', 'semua', 'akses', 'bahkan', 'bikin', 'akun', 'baru', 'juga', 'tetep', 'gak', 'bisa', 'dipake', 'buat', 'belanja', 'lagi', 'shopee', 'parah', 'ancur']",negatif
+"['udah', 'diupdate', 'tpi', 'mlah', 'lemot']",negatif
+"['sangat', 'membantu']",positif
+['nokomen'],negatif 
+"['parah', 'promo', 'belum', 'usai', 'sudah', 'berubah', 'cuma', 'iklan', 'doang']",negatif 
+"['sekarang', 'klo', 'mau', 'liat', 'ulasan', 'orang', 'lain', 'ga', 'muncul', 'variasinya', 'kan', 'saya', 'jadi', 'ragu', 'mau', 'beli']",negatif
+"['bagus', 'banget']",positif
+"['aplikasinya', 'lelet', 'sekaliiiii', 'sekarang', 'udah', 'lama', 'tidak', 'belanja', 'lewat', 'aplikasi', 'ini', 'karena', 'leletnya', 'sampe', 'sy', 'uninstall', 'dan', 'sekarang', 'download', 'lagi', 'tapi', 'masih', 'lelet', 'tolong', 'dong', 'di', 'perbaiki', 'biar', 'nyaman', 'di', 'gunakan', 'semangat']",negatif 
+"['aplikasi', 'tidak', 'stabil']",negatif 
+"['bagus', 'bgttt']",positif 
+"['sekarang', 'shopee', 'lemot', 'sekali', 'mau', 'isi', 'pulsa', 'kuota', 'data', 'isi', 'emoney', 'loadingnya', 'lama', 'bahkan', 'seringnya', 'gagal', 'buka', 'halaman', '--']",negatif 
+['oky'],positif
+"['sering', 'muncul', 'di', 'iklan', 'kesel', 'gua']",negatif 
+['ok'],positif 
+"['sangat', 'kecewa', 'makin', 'lemot', 'aplikasinya', 'order', 'berkali²', 'pas', 'pembayaran', 'selalu', 'loding', 'dan', 'ahirnya', 'dibatalkan', 'sama', 'pihak', 'sopi']",negatif 
+"['dari', 'dulu', 'banyak', 'komplain', 'ni', 'aplikasi', 'lemotgk', 'ada', 'perubahanmalah', 'ada', 'biaya', 'aplikasi', 'gak', 'recommend']",negatif 
+['shopeeok'],positif 
+"['very', 'good', 'very', 'well']",positif 
+"['sangat', 'bagus']",positif 
+"['sangat', 'membantu']",positif 
+"['klau', 'dapat', 'pinjaman', 'jangan', 'suka', 'tawarinyg', 'penting', 'sy', 'bayar', 'payleter', 'bener', 'kaga', 'pernah', 'nunggak', 'karena', 'membantu', 'sy', 'usaha', 'pinjaman', 'jangka', 'sebulan', 'dah', 'tebus', 'ama', 'yg', 'punya', 'langsung', 'bayarkadang', 'bulan', 'blm', 'blm', 'dah', 'pelunasanjangan', 'sampai', 'nunggaksaran', 'sy', 'gitu', 'aja']",negatif 
+"['tingkatkan', 'terus', 'macam', 'producya']",positif 
+"['permasalahan', 'sudah', 'selesai', 'tapi', 'peroses', 'cukup', 'panjang', 'dan', 'memakan', 'waktu', 'cukup', 'lama', 'untuk', 'menyelesaikanya']",negatif 
+"['lemotdi', 'update', 'malah', 'lemot']",negatif 
+"['angga', 'any']",positif
+"['aku', 'cinta', 'kamu', 'love', 'youmiss', 'youbabay']",positif
+"['mantul', 'mantap', 'betul', 'bos', ""'""]",positif 
+"['good', 'job']",positif 
+['yahava'],positif
+['ll'],positif
+"['ga', 'bgus', 'lemot', 'amat', 'pengiriman', 'nya', 'pun', 'mkin', 'lama', 'mles', 'bet', 'dpet', 'kurir', 'yg', 'katanya', 'sedang', 'dalam', 'tujuan', 'eh', 'gatau', 'nya', 'pas', 'malam', 'di', 'liat', 'pembeli', 'gada', 'dirumahbapak', 'dia', 'itu', 'gada', 'dirumah', 'jelas', 'jelas', 'saya', 'dirumah', 'nungguin', 'tu', 'paket', 'kga', 'ada', 'dtng', 'dibikin', 'pula', 'pembeli', 'gada', 'dirumah', 'tolong', 'la', 'shopee', 'tambahin', 'fitur', 'supaya', 'ada', 'nama', 'telepon', 'kurir', 'yg', 'ngantar', 'ke', 'alamat', 'tujuan', 'biar', 'enak', 'maki', 'nya', 'klo', 'ga', 'di', 'antar', 'oke', 'udh', 'lengkap', 'alamat', 'ku', 'dan', 'nomor', 'hp', 'aktif', 'terusmles', 'aku', 'buat', 'download', 'shopee', 'lgi']",negatif 
+"['gamgu', 'cok', 'banyak', 'iklan', 'sopi']",negatif 
+"['sangat', 'baik']",positif 
+['top'],positif 
+"['sang', 'at', 'baik']",positif 
+"['padahal', 'saya', 'sudah', 'memakai', 'voucerr', 'diskon', 'tapi', 'tetap', 'saja', 'harganya', 'tidak', 'berubah']",negatif 
+"['sangat', 'membantu', 'dan', 'harganya', 'banyak', 'yg', 'murah']",positif 
+"['makin', 'lelet', 'aplikasinya']",negatif 
+['ok'],positif 
+"['belanja', 'tanpa', 'keluar', 'tenaga']",positif 
+"['shopee', 'is', 'the', 'best']",positif 
+['bagus'],positif 
+"['bagus', 'sih']",positif 
+"['sangat', 'mengecewakan', 'pihak', 'spinjam', 'nya', 'tidak', 'ada', 'koordinasi', 'dengan', 'baik', 'terkait', 'pembayaran', 'nasabah', 'update', 'nya', 'tidak', 'langsung', 'padahal', 'saya', 'sudah', 'bayar', 'hampir', 'minggu', 'stts', 'pembayaran', 'masih', 'belum', 'berubah', 'malah', 'bunga', 'semakin', 'naik', 'sudah', 'komplain', 'ke', 'cs', 'kali', 'tidak', 'ada', 'perubahan', 'yang', 'ada', 'team', 'kolektor', 'wa', 'dan', 'sms', 'saya', 'sangat', 'mengganggu', 'koordinasinya', 'sangat', 'buruk', 'padahal', 'satu', 'instansi', 'perusahaan']",negatif 
+['yfyyre'],negatif
+['oke'],positif 
+['ok'],positif 
+"['sangat', 'baik']",positif 
+['ok'],positif 
+['mantaaaab'],positif 
+['matap'],positif 
+"['shopee', 'memang', 'beda', 'dari', 'yang', 'lain']",positif 
+"['untuk', 'aplikasi', 'ini']",positif 
+['gg'],positif 
+"['terima', 'kasih', 'shopeemembuat', 'kami', 'blnj', 'lbih', 'muda', 'dan', 'lbih', 'hemat']",positif 
+"['mantap', 'brow']",positif 
+"['ngelag', 'gak', 'bisa', 'masuk', 'untuk', 'cek', 'pengiriman']",negatif 
+['terimakasih'],positif 
+['ok'],positif 
+"['sip', 'jos']",positif 
+"['gmana', 'sih', 'donwload', 'jha', 'lma', 'bner']",negatif 
+['tks'],negatif
+['alhamdulillah'],positif 
+['apik'],positif 
+"['mantap', 'shopee', 'terdepan', 'banyak', 'diskon', 'dan', 'gratis', 'ongkir', 'jos', 'pokoknya']",positif 
+['bagus'],positif 
+['mantap'],positif 
+"['oke', 'banget']",positif 
+['baguss'],positif 
+"['orderancpt', 'sampai']",positif 
+['perfect'],positif 
+['top'],positif 
+['macettttt'],negatif 
+"['minimal', 'koneksinya', 'buat', 'stabil', 'biar', 'kalo', 'flashsale', 'yang', 'lain', 'kebagian', 'juga']",negatif 
+"['pinjol', 'haram', 'cicilan', 'ga', 'ngotak', 'sampe', '%']",negatif 
+['bagus'],positif 
+"['semakin', 'mantapapalagi', 'dengan', 'adanya', 'spaylaterjadi', 'makin', 'josss']",positif 
+['mantap'],positif 
+['mantul'],positif 
+"['puas', 'belanja', 'di', 'shopee']",positif 
+['ok'],positif 
+['mantap'],positif 
+['sholawat'],positif
+"['iklan', 'terlalu', 'banyak', 'iklan', 'melulu']",negatif 
+"['shopee', 'sangat', 'membantu', 'belanja', 'cepat', 'dan', 'sesuai', 'keinginan', 'smg', 'shopee', 'makin', 'maju', 'dan', 'sukses']",positif 
+"['makin', 'kesini', 'makin', 'gak', 'jelas', 'nih', 'shopee']",negatif 
+"['sangat', 'puss', 'blanja', 'shopee', 'dan', 'aman', 'sukses', 'selama', 'nya', 'shopee', 'dan', 'jaya']",positif 
+"['sangat', 'bagus']",positif 
+"['gila', 'sekarang', 'jualan', 'dishopee', 'potongan', 'admin', 'hampir', '%', 'lebihmau', 'chat', 'csmalah', 'robot', 'mulu', 'yg', 'jawabgedeg', 'bgt', 'guamakin', 'kaya', 'shopee', 'parah']",negatif 
+"['sangat', 'membantu', 'dalam', 'belanja', 'online', 'terimakasih', 'shopee']",positif 
+"['kenapa', 'saya', 'tidak', 'bisa', 'cod', 'tolol']",negatif 
+"['mhon', 'maaf', 'kpd', 'pihak', 'shopeesya', 'ingin', 'menanya', 'kan', 'tntang', 'pmulihan', 'akun', 'di', 'batasisya', 'uda', 'mngajukan', 'pmulihan', 'akun', 'sya', 'yg', 'kena', 'fkata', 'pmberitaun', 'dari', 'email', 'pihak', 'shopeeakun', 'sya', 'akan', 'di', 'pulih', 'kan', 'kmbali', 'stelah', 'hri', 'di', 'hitung', 'dri', 'tgl', 'meyuntuk', 'penarikan', 'saldo', 'pda', 'akun', 'trsebuttiba', 'ada', 'pmberitaun', 'lagi', 'di', 'pihak', 'shopee', 'akun', 'sya', 'tidak', 'bisa', 'di', 'pulihkanmana', 'dong', 'janji', 'pihak', 'shopee', 'ke', 'pda', 'sya', 'bulan', 'yg', 'laluklau', 'akun', 'sya', 'di', 'batasi', 'tidak', 'apatapi', 'yg', 'masala', 'nya', 'ada', 'uang', 'sya', 'pda', 'akuntlong', 'puli', 'kn']",negatif 
+"['aplikasi', 'mulai', 'terasa', 'berat']",negatif 
+"['mudah', 'dimengerti']",positif 
+"['sangt', 'bgus']",positif 
+['mayan'],positif 
+"['@', '@', 'ccg', 'uhhh', 'xx']",negatif
+['mantap'],positif 
+['good'],positif 
+['mantap'],positif 
+"['skrg', 'dah', 'mulai', 'ok']",positif 
+"['sangat', 'membantu']",positif 
+"['mantap', 'sopi']",positif 
+"['saya', 'kurangi', 'bintangya', 'karna', 'apk', 'nya', 'sering', 'leletterus', 'mana', 'mau', 'meruba', 'alamat', 'mala', 'gk', 'bisa', 'mana', 'bolak', 'balik', 'terus', 'tetap', 'gk', 'bisatolong', 'dong', 'klw', 'puya', 'apk', 'jangan', 'di', 'persulit', 'bikin', 'alamat', 'garus', 'inila', 'itula', 'blah', 'blah', 'blahsusah', 'banget']",negatif 
+"['shopee', 'memang', 'hebat', 'semoga', 'sukses', 'terus']",positif 
+"['akun', 'dibatesiinn', 'gimana', 'sih', 'shopee', 'pdhl', 'uda', 'oke', 'cm', 'telat', 'bayar', 'aj', 'pdhl', 'uda', 'dibayar', 'haha', 'lucu', 'sih', 'mnding', 'usah', 'dibayar', 'aja', 'ap', 'ya', 'merugikan', 'wkwk']",negatif 
+"['iklan', 'tdk', 'bermutu', 'bikin', 'habis', 'kuota']",negatif 
+"['puas', 'banget', 'belaja', 'di', 'shopee']",positif 
+"['maaf', 'saya', 'kasih', 'bintang', 'karena', 'makin', 'leletnggak', 'karuan', 'sudah', 'pakai', 'wifi', 'sampek', 'ganti', 'pakai', 'paket', 'data', 'tetap', 'muter', 'aja', 'mau', 'bayar', 'pakai', 'shopee', 'pay', 'pun', 'cuma', 'loading', 'terus', 'sampek', 'sekarang', 'nggak', 'bisa', 'mohon', 'perbaiki', 'donk', 'fiturnya']",negatif 
+"['ngeriya', 'sm', 'nl']",negatif 
+['oke'],positif 
+['ok'],positif 
+"['sangat', 'memuaskannnn', 'belanja', 'di', 'shoopee', 'harganya', 'murah', 'tapi', 'tidak', 'murahan', 'dan', 'barangnya', 'bagus']",positif 
+['baik'],positif 
+"['nunggu', 'barang', 'sampe', 'kaya', 'nunggu', 'antrian', 'haji', 'zaman', 'teknologi', 'modern', 'tp', 'kaya', 'zaman', 'pos', 'sepeda', 'ontel']",negatif 
+"['mantap', 'pokonya']",positif 
+[],negatif 
+"['shopee', 'sangat', 'membantu', 'sekali']",positif 
+"['jayajayajaya', 'semakin', 'jaya']",positif 
+"['luv', 'luv', 'deh', 'untuk', 'shopee']",positif 
+"['lumayan', 'membantu']",positif 
+"['bintang', 'saya', 'kurangi', 'karna', 'fitur', 'face', 'id', 'menyusahkan', 'saya', 'ketika', 'checkout', 'barang', 'karna', 'fitur', 'hp', 'saya', 'kurang', 'memadai', 'tolong', 'fitur', 'face', 'id', 'dihapuskan', 'di', 'ganti', 'finger', 'print', 'atau', 'sandi', 'kembali']",negatif 
+"['mantap', 'dah', 'shopee', 'iloveyou', 'fullll']",positif 
+"['semakin', 'baru', 'aplikasi', 'semakin', 'lemot']",negatif 
+['good'],positif 
+"['aplikasi', 'ini', 'sangat', 'amat', 'bagus', 'saya', 'suka', 'sekali', 'saya', 'setiap', 'hari', 'di', 'gratisin', 'ongkir']",positif 
+"['bgs', 'lah']",positif 
+"['please', 'hapus', 'dong', 'shoppe', 'videonya', 'dan', 'beberapa', 'games', 'nya', 'ituh', 'yg', 'bikin', 'lemot', 'ini', 'aplikasi', 'buat', 'belanja', 'atau', 'buat', 'mainan']",negatif 
+"['sangat', 'baik', 'terima', 'kasih', 'semoga', 'sukses', 'selalu', 'kurir', 'sangat', 'rama', 'baik', 'dan', 'sabar', 'shopi', 'semakin', 'terdepan', 'aamiin']",positif 
+['okee'],positif 
+['mantap'],positif 
+"['semoga', 'selalu', 'amanah', 'shopee']",positif 
+"['lazada', 'losss', 'bos', 'shopee', 'di', 'hati']",positif 
+"['shopee', 'makin', 'kesana', 'makin', 'kesinipelit']",positif 
+"['sip', 'tapi', 'suka', 'lelet']",negatif 
+['mantap'],positif 
+"['trimkasi', 'shope', 'jauh-jauh', 'di', 'papua', 'tpi', 'kalau', 'uda', 'buka', 'shope', 'seperti', 'belanja', 'di', 'mol', 'jakarta', 'barang', 'lengkap', 'semua']",positif 
+"['semoga', 'amanah']",positif 
+['lemot'],positif 
+"['shopee', 'sekarang', 'kok', 'gini', 'amat', 'yaa', 'mau', 'apa', 'apa', 'susah', 'apalagi', 'menu', 'shopee', 'pay', 'nya', 'sering', 'banget', 'error', 'sedang', 'memuat', 'fitur', 'coba', 'perbaiki', 'lagi', 'donggg']",negatif 
+"['sebelumnya', 'saya', 'minta', 'maaf', 'ini', 'spinjam', 'adanya', 'di', 'shopee', 'customer/shopee', 'belanja', 'shopee', 'customer', 'harus/kudu/wajib', 'download', 'waktu', 'daftar', 'shopee', 'driver', 'berharap', 'akun', 'shopee', 'driver', 'saya', 'orderan', 'food', 'tapi', 'kenyataan', 'dikasih', 'orderan', 'selalu', 'spxapalagi', 'josacacluster', 'italybanjar', 'wijaya-cipondohharus', 'bawa', 'galon', 'isi', 'auto', 'cancel', 'itupun', 'sudah', 'banyak', 'driver', 'mengadu', 'tp', 'tidak', 'ditanggapi', 'saya', 'putus', 'asasangkin', 'ingin', 'dapat', 'orderan', 'food', 'saja']",negatif 
+"['aplikasi', 'sangat', 'lambat', 'dijalankan', 'meski', 'sudah', 'menggunakaan', 'internet', 'berkecepatan', 'tinggi', 'aplikasinya', 'juga', 'sering', 'hang', 'semakin', 'di-update', 'malah', 'semakin', 'lambat', 'banyak', 'fitur', 'tapi', 'lambat', 'dipakainya', 'bikin', 'hp', 'cepat', 'panas', 'udah', 'macam', 'pasar', 'tumpah', 'aja', 'shopee', 'nih']",negatif 
+['mantappp'],positif 
+"['makin', 'lelet', 'aplikasinya', 'berat', 'bgt', 'rasanya', 'udah', 'refresh', 'beberapa', 'kali', 'udh', 'dihapus', 'chahe', 'bahkan', 'hapus', 'data', 'tetep', 'aja', 'lelet', 'sering', 'lag', 'sama', 'banyak', 'bug', 'nya', 'juga', 'kadang', 'pas', 'buka', 'aplikasinya', 'layar', 'semua', 'putih', 'terus', 'sering', 'keluar', 'dari', 'aplikasinya', 'padahal', 'buka', 'aplikasi', 'lain', 'lancar', 'aja', 'jaringan', 'bagus', 'memori', 'jg', 'ga', 'penuh', 'tapi', 'pas', 'buka', 'shopee', 'maah', 'lag', 'terus', 'nge', 'blank', 'tak', 'kasih', 'bintang', 'dulu', 'harua', 'bagaimana', 'lagi', 'dah', 'habis', 'kata', 'kau', 'buat', 'jawab', 'kan', 'aplikasi', 'mu', 'lama', 'lama', 'bikin', 'naik', 'tensi']",negatif 
+['bgs'],positif 
+"['senang', 'lihat', 'video', 'shopee']",positif 
+['bagus'],positif 
+"['banyak', 'gratis', 'ongkirnya']",positif 
+"['lebih', 'baik', 'dan', 'dipercaya', 'dari', 'yang', 'lain']",positif 
+"['terbaik', 'di', 'belanja', 'online', 'terpercaya']",positif 
+"['semenjak', 'saya', 'pake', 'aplikasi', 'shopperjadi', 'nggak', 'repot', 'untuk', 'berbelanja']",positif 
+"['sangat', 'lemot', 'apl', 'belanja', 'online', 'kebanyakan', 'fitur', 'gk', 'penting', 'tidak', 'semua', 'pengguna', 'shopee', 'hp', 'nya', 'bagus', 'saya', 'harap', 'ada', 'apl', 'shopee', 'versi', 'lite', 'yang', 'tidak', 'ada', 'live', 'video']",negatif 
+"['sangat', 'bagus']",positif 
+"['mudah', 'mendapatkan', 'rejeki']",positif 
+"['ok', 'bgus']",positif 
+"['love', 'you']",positif 
+"['belanja', 'murah', 'belanja', 'online', 'praktis']",positif 
+"['klau', 'belanja', 'dishopee', 'enak', 'barang', 'dijamin', 'original']",positif 
+"['penjual', 'jahat', 'main', 'blokir', 'minta', 'ganti', 'rugi', 'aja', 'blokir', 'tak', 'aklak', 'tambahan', 'baru', 'penjual', 'diberitau', 'cek', 'barang', 'kondisi', 'layak', 'atau', 'tidak', 'helm', 'dikirim', 'dengan', 'baut', 'hilang', 'tak', 'aklak', 'tambahan', 'lagi', 'saya', 'beli', 'barang', 'pakai', 'koin', 'sebanyak', 'ribu', 'koin', 'beli', 'sereal', 'eee', 'disuruh', 'batsl', 'minta', 'ganti', 'koin', 'diblokir', 'tak', 'aklak', 'makin', 'parah', 'susah', 'dipercaya', 'makin', 'lama', 'makin', 'parah', 'lagi', 'sinyal', 'bagus', 'tak', 'bisa', 'bayar', 'barang']",negatif 
+['bagus'],positif 
+"['belanja', 'online', 'yang', 'menguntungkan']",positif 
+['suka'],positif 
+"['sangat', 'membantu', 'dan', 'murah']",positif 
+['baik'],positif 
+['ok'],positif 
+['jelek'],positif 
+"['setelah', 'di', 'update', 'makin', 'ngebug', 'di', 'jaringan', 'dan', 'membayar', 'denhan', 'spaylater']",negatif 
+"['cocok', 'untuk', 'kita', 'yang', 'suka', 'cod', 'ad']",positif 
+"['barang', 'yg', 'datang', 'tepat', 'waktu', 'dan', 'sesuai', 'pesanan']",positif 
+"['segala', 'sesuatu', 'yang', 'ingin', 'kita', 'perlihatkan', 'tak', 'perlu', 'banyak', 'sponsor', 'terimakasih']",positif 
+['top'],positif 
+"['real', 'pict', 'barangnya', 'tq', 'shopee']",positif 
+['baik'],positif 
+['baguss'],positif 
+['mantap'],positif 
+"['bagus', 'banget']",positif 
+['keren'],positif 
+"['keren', 'bagus']",positif 
+"['pengiriman', 'lumayan', 'cepatrespon', 'lumayan', 'cepat']",positif 
+"['tingkatkan', 'lagi', 'promosi', 'nya']",positif 
+['bagus'],positif 
+"['sangat', 'membantu']",positif 
+"['aplikasinya', 'lemot', 'padahal', 'buka', 'game', 'dan', 'streaming', 'youtube', 'lancar', 'sering', 'lag', 'buat', 'hp', 'jadi', 'sangat', 'panas', 'seperti', 'main', 'game', 'lama', 'padahal', 'waktu', 'buka', 'apl', 'olshop', 'sebelah', 'engga', 'panas', 'tolong', 'diperbaiki']",negatif 
+"['aku', 'sangat', 'suka', 'shoppee']",positif 
+"['bagus', 'dah', 'pokoknya']",positif 
+"['tidak', 'dapat', 'verifikasi', 'login', 'akun', 'aneh', 'banget', 'padahal', 'sesuai', 'semua']",negatif 
+['bagus'],positif 
+"['selalooo', 'di', 'depannnn', 'majuuu', 'terusss']",positif 
+"['tolong', 'tambahkan', 'pembayaran', 'menggunakan', 'dana', 'bila', 'sudah', 'saya', 'tambahkan', 'bintang']",positif
+"['makin', 'berat']",negatif 
+"['mantap', 'lah', 'pokoknya', 'sudah', 'mantap', 'bang', 'hihi', 'mantap', 'hehe', 'iyo', 'bang', 'mantap', 'aduhhh', 'hihi', 'mantapsshh']",positif 
+"['alhamdulillah', 'shopee', 'sangat', 'membantu', 'bagi', 'saya', 'seorang', 'ibu', 'rumah', 'tanggadengan', 'shopee', 'saya', 'bisa', 'membuka', 'usaha', 'dan', 'sambil', 'belanja', 'terimakasih', 'shopee']",positif 
+"['belanja', 'di', 'shopee', 'selalu', 'menyenangkan']",positif 
+['bahshs'],negatif
+['mantap'],positif 
+"['makin', 'lama', 'makin', 'aneh', 'ni', 'apk', 'kaga', 'jelas', 'memory', 'hp', 'saya', 'besar', 'internet', 'saya', 'bagus', 'sudah', 'dibersihkan', 'cech', 'segala', 'macem', 'ttp', 'aja', 'kaga', 'bisa', 'dibuka', 'tetap', 'aja', 'ada', 'tulisan', 'ups', 'halaman', 'sedang', 'dalam', 'perbaikan', 'sementara', 'saya', 'mengalami', 'itu', 'uda', 'hari', 'yg', 'lalu', 'sampai', 'saat', 'ini', 'tolong', 'dong', 'perbaiki', 'ini', 'apk', 'nnti', 'makin', 'lama', 'org²', 'pda', 'kasih', 'rating', 'loh', 'beneran', 'dah', 'terimakasih']",negatif 
+"['bintang', 'karna', 'ini', 'keamanannya', 'sudah', 'gak', 'ketatsudah', 'ada', 'si', 'penipu', 'yang', 'menjual', 'di', 'aplikasi', 'ini']",negatif 
+"['beneran', 'ngeselin', 'banget', 'kenapa', 'ya', 'kok', 'bisa', 'pas', 'bukak', 'ngbug', 'mulu', 'perbaikan', 'terus', 'dan', 'kembali', 'ke', 'awal', 'diperbarui', 'malah', 'bikin', 'ga', 'nyaman']",negatif 
+['bagus'],positif 
+['bagus'],positif 
+['top'],positif 
+['ok'],positif 
+"['sesuai', 'pesanan']",positif 
+"['say', 'kasih', 'bintang', 'karena', 'aplikasinya', 'semakin', 'kesini', 'semakin', 'lelet', 'padahal', 'udah', 'aku', 'update', 'tpi', 'ttep', 'lelet', 'bukannya', 'makin', 'bagus', 'malah', 'tambah', 'lelet', 'mohon', 'untuk', 'di', 'perbaiki', 'lagi']",negatif 
+['jelek'],negatif 
+"['shoppe', 'sangat', 'membantu', 'saya', 'untuk', 'membeli', 'barang']",positif 
+"['rifa', 'çm']",positif 
+['ionttol'],negatif
+"['min', 'kenapa', 'yaa', 'timbul²', 'ada', 'notifikasi', 'penagihan', 'utang', 'di', 'customer', 'servis', 'sebelumnya', 'saya', 'gak', 'pernah', 'ngutang', 'spaylayer', 'nonaktif', 'spinjam', 'pun', 'non', 'aktif', 'jadi', 'kenapa', 'saya', 'ditagih', 'utang', 'min', 'saya', 'gak', 'oernah', 'ngutang', 'min']",negatif
+"['shoppe', 'skrg', 'selalu', 'pro', 'pada', 'seller', 'barang', 'kw', 'kurir', 'nyaplease', 'kasih', 'jam', 'kerja', 'wajar', 'aja', 'napa', 'gila', 'aja', 'jam', '-', 'malam', 'nganterin', 'barang', 'klo', 'itu', 'frozen', 'food', 'atau', 'brg', 'penting', 'sih', 'oke', 'lah', 'bisa', 'di', 'maklumi', 'aturan', 'buat', 'kurir', 'nya', 'tuh', 'yg', 'wajib', 'di', 'benahi', 'max', 'pengiriman', 'jam', '-', 'sore', 'aja']",negatif
+"['bukankah', 'ini', 'aplikasi', 'belanja', 'kenapa', 'sekarang', 'malah', 'jadi', 'aplikasi', 'vidio', 'klo', 'emang', 'untuk', 'belanja', 'ya', 'sewajarnya', 'kali', 'jangan', 'berlebihan', 'sampai', 'memberatkan', 'aplikasi']",negatif
+"['mantapbelanja', 'di', 'shope']",positif 
+"['aplikasi', 'lemot']",negatif
+"['jangan', 'banyak', 'iklan', 'cape', 'liatnya', 'engga', 'suka', 'dikasih', 'bintang', 'loding', 'lama', 'payahnyusahin', 'aja', 'intinya', 'engga', 'suka', 'iklannya', 'pahamkan']",negatif
+[],
+"['paket', 'saya', 'selalu', 'dibatal', 'kan', 'saya', 'udah', 'nunggu', 'lama', 'malah', 'di', 'batalkan', 'jadi', 'karena', 'itu', 'saya', 'pindah', 'ke', 'apk', 'sebelah']",negatif
+"['lama', 'mengistal']",negatif
+"['semoga', 'makin', 'banyak', 'promo', 'ya', 'hehe']",positif 
+"['pelayanan', 'dari', 'shopee', 'cukup', 'memuaskan', 'terima', 'kasih', 'banyak', 'sangat', 'membantu']",positif 
+"['belanja', 'online', 'mudah', 'di', 'shopee', 'pengiriman', 'cepat', 'harga', 'harganya', 'bersahabat', 'beberapa', 'hari', 'terakhir', 'agak', 'lemot', 'ya']",positif
+"['aku', 'suka', 'shopee']",positif
+"['tidak', 'seperti', 'dulusekarang', 'tiap', 'ngisi', 'saldo', 'di', 'potong', 'rupiah', 'dan', 'per', 'transaksi', 'order', 'di', 'potong', 'rupiah', 'kalau', 'di', 'kalikan', 'per', 'order', 'sudah', 'berapa', 'ribu', 'saya', 'kurangi', 'lagi', 'nya', 'habis', 'update', 'kok', 'tambah', 'lemot', 'lelet']",negatif
+"['aplikasinya', 'sering', 'berhenti', 'tibatrys', 'buka', 'flash', 'sale', 'malah', 'tiba', 'kembali', 'ke', 'halaman', 'utamabenerin', 'yg', 'bener', 'dong', 'makin', 'update', 'makin', 'karuan']",negatif
+"['kasih', 'start', 'aja', 'naik', 'limit', 'jadi', 'juta']",positif
+"['makin', 'lelet', 'aplikasinya', 'dibuka', 'berat', 'seklii', 'tapi', 'yah', 'lumayan', 'bagus']",negatif
+['siip'],positif
+"['mohon', 'tambahkan', 'tema', 'gelap']",positif
+"['makin', 'lama', 'makin', 'hemmmm']",negatif
+"['sangat', 'puas', 'semua', 'tokonya', 'amanah']",positif
+"['nice', 'pokonya']",positif
+"['muak', 'gw', 'liat', 'iklan', 'orang', 'nyanyi', 'sopi', 'pi', 'pi', 'kntl']",negatif
+"['aplikasi', 'penipu']",negatif
+"['lumayan', 'bagus', 'untuk', 'saat', 'ini', 'dan', 'semoga', 'kedepan', 'terus', 'lebih', 'baik', 'terutama', 'diskon', 'besar-besaran']",positif
+"['jaya', 'selalu']",positif
+"['sering', 'berhenti', 'ngelag']",negatif
+"['sulit', 'ganti', 'nomor', 'handphone', 'yang', 'sudah', 'tak', 'aktif', 'lagi']",negatif
+"['aplikasi', 'berat', 'jadi', 'lemot']",negatif
+"['shopee', 'makin', 'kesini', 'makin', 'aneh', 'yg', 'seharusnya', 'dapet', 'koin', 'pas', 'di', 'terima', 'barang', 'gadapet', 'koinnya', 'bukan', 'mempermasalahkan', 'koinnya', 'yg', 'ga', 'seberapa', 'tapi', 'kejadian', 'ini', 'ga', 'sekali', 'aja', 'kasian', 'buat', 'orang', 'yg', 'ngarepin', 'koinnya', 'malah', 'tiba-tiba', 'diterima', 'barang', 'gada', 'koinnya']",negatif
+"['keren', 'karna', 'banyak', 'gratis', 'ongkir', 'heheh']",positif
+['ok'],positif
+"['makan', 'hari', 'makin', 'lemot']",negatif
+"['terpaksa', 'uninstal', 'aja', 'dah', 'ga', 'bisa', 'cod']",negatif
+"['tahu', 'semua', 'yg', 'kau', 'butuhkan']",positif
+"['coba', 'dulu']",positif
+"['saya', 'kecewa', 'kok', 'shoppepay', 'saya', 'ga', 'ada', 'padahal', 'saya', 'udh', 'isi', 'loh', 'tau', 'ga', 'isi', 'shoppepay', 'itu', 'pake', 'duit', 'kok', 'kereset', 'sih', 'sumpah', 'ngeselin', 'banget', 'kapan', 'si', 'shoppe', 'ga', 'ngelag']",negatif
+"['kurang', 'lancar', 'tdk', 'sprti', 'shopee', 'yg', 'duluklo', 'bz', 'perbaiki', 'to', 'admin', 'tolong', 'app', 'shopee', 'ny', 'perbaiki', 'agar', 'lancar']",negatif
+['membantu'],positif
+"['yang', 'paling', 'saya', 'benci', 'dari', 'shopee', 'adalah', 'update', 'aplikasi']",negatif
+['keren'],positif
+"['sangat', 'baik']",positif
+"['mengganggu', 'penawaran']",negatif
+"['sya', 'benar', 'berkesan', 'dengan', 'shoppehanya', 'saja', 'akun', 'sya', 'yg', 'lama', 'hilangkalo', 'misalkan', 'sya', 'mau', 'bikin', 'akun', 'baru', 'dengan', 'ktp', 'sya', 'sebagai', 'pendaftaran', 'apa', 'bisa', 'masuk', 'ke', 'akun', 'yg', 'lama', 'sya', 'masih', 'ada', 'tunggakan', 'di', 'akun', 'yg', 'lama', 'dan', 'berniat', 'membayar', 'untuk', 'develop', 'sya', 'tunggu', 'jwb', 'an', 'nya', 'hidup', 'di', 'bayang-bayangi', 'hutang', 'benar', 'tidak', 'tenang', 'meski', 'kecil', 'hutang', 'ya', 'hutang', 'tetap', 'harus', 'di', 'bayar']",positif
+"['pokoknya', 'baik', 'dah']",positif
+"['jadi', 'aplikasi', 'belanja', 'online', 'terfavorit', 'dan', 'juga', 'semakin', 'lengkap']",positif
+"['kenapa', 'skrg', 'apa', 'apa', 'ngga', 'boleh', 'dijual', 'sih', 'dishopee', 'makin', 'nyusahin', 'aja', 'mau', 'nyari', 'garskin', 'buat', 'pod', 'aja', 'udh', 'ngga', 'ada', 'kebanyakan', 'peraturan', 'skrg-']",negatif
+['bagus'],positif
+"['pake', 'shopee', 'oke', 'bgt', 'banyak', 'manfaat', 'mudah', '&', 'sering', 'gratis', 'ongkir']",positif
+[],positif
+['ooh'],positif
+"['shopee', 'makin', 'melaju', 'kencang', 'sekarang', 'boleh', 'di', 'check', 'dulu', 'barang', 'yg', 'di', 'pesan', 'klu', 'ok', 'baru', 'di', 'bayar', 'sukses', 'selalu', 'shopee']",positif
+"['update', 'an', 'terbaru', 'makin', 'eror', 'aja', 'mau', 'bayar', 'pesanan', 'malah', 'disuruh', 'download', 'fitur', 'dan', 'download', 'nya', 'pun', 'gak', 'bisa', 'malah', 'seolah', 'olah', 'gak', 'ada', 'sambungan', 'internet', 'padahal', 'di', 'apk', 'lain', 'sinyal', 'nya', 'lancar²', 'aja']",negatif
+"['cpt', 'terjamin']",positif
+"['bagus', 'lumayan', 'dapet', 'koin', 'gratis']",positif
+"['aplikasi', 'terpercaya', 'sih']",positif
+"['pak', 'buk', 'pls', 'jangan', 'ada', 'iklan', 'shope', 'bikin', 'ngeganggu']",negatif
+['keren'],positif
+"['puas', 'belanja', 'di', 'shopee']",positif
+"['tolong', 'hilangkan', 'biaya', 'penanganan', 'dari', 'shopee', 'sekarang', 'belanja', 'di', 'shopee', 'setelah', 'muncul', 'nya', 'biaya', 'penanganan', 'menjadi', 'tidak', 'nyaman', 'mending', 'kalau', 'atau', 'tidak', 'masalah', 'namun', 'kalau', 'sampai', 'saya', 'rasa', 'terlalu', 'banyak', 'saya', 'minta', 'hilangkan', 'biaya', 'penanganan', 'yang', 'dampak', 'nya', 'nihil']",negatif
+"['ps', 'drop']",negatif
+"['kepada', 'developer', 'atau', 'pihak', 'shopee', 'tolong', 'di', 'respon', 'pesan', 'sya', 'ini', 'sya', 'adalah', 'penjual', 'dan', 'bembeli', 'barang', 'di', 'aplikasi', 'shopee', 'sya', 'sudah', 'cukup', 'lama', 'menggunakan', 'aplikasi', 'shopee', 'untuk', 'keperluan', 'belanja', 'dan', 'menjual', 'barang', 'dagangan', 'sya', 'sekarang', 'udah', 'dua', 'kali', 'kejadian', 'dana', 'penjualan', 'sya', 'telat', 'terus', 'masuk', 'ke', 'saldo', 'penjualan', 'sya', 'keterangan', 'nya', 'tanggal', 'juni', 'sekarang', 'udah', 'tgl', 'malah', 'belum', 'masuk', 'juga', 'tolong', 'lah', 'kerja', 'sama', 'nya', 'klo', 'kya', 'gini', 'caranya', 'giman', 'kami', 'bisa', 'memutar', 'modal', 'tersebut', 'jawab']",negatif
+"['aplikasi', 'lemot', 'banget']",negatif
+"['hari', 'bebas', 'ongkir', 'shopee']",positif
+"['sangat', 'membantu']",positif
+"['good', 'luck']",positif
+"['makin', 'hari', 'makin', 'lelet', 'aplikasinya']",negatif
+['lumayan'],positif
+"['terima', 'kasih', 'mohon', 'untuk', 'seller', 'jangan', 'terlalu', 'gede', 'biaya', 'adminnya', 'kami', 'hanya', 'penjual', 'recehan']",positif
+"['pengiriman', 'lamapadahal', 'sudah', 'di', 'bayarbanyak', 'barang', 'jualan', 'nya', 'tidak', 'berkualitas', 'sangat', 'buruk']",negatif
+"['tolong', 'shopee', 'untuk', 'memilih', 'jasa', 'pengiriman', 'yang', 'baik', 'paket', 'saya', 'sering', 'salah', 'kirim', 'sehingga', 'terjadi', 'keterlambatan', 'pengiriman', 'untuk', 'toko', 'penjual', 'nya', 'tolong', 'diseleksi', 'lagi', 'ada', 'beberapa', 'yang', 'tidak', 'amanah', 'tidak', 'sesuai', 'barang', 'yang', 'di', 'pesan', 'dengan', 'barang', 'yang', 'di', 'kirim', 'sehingga', 'merugikan', 'customer/pembeli']",negatif
+"['flashsale', 'rupiah', 'selalu', 'stock', 'habis', 'ntah', 'permainan', 'apa', 'bukan']",positif
+"['developer', 'kurang', 'waspada', 'dengan', 'bot', 'flash', 'sale', 'yang', 'menguntungkan', 'beberapa', 'orang', 'dan', 'merugikan', 'pengguna', 'reguler', 'setidaknya', 'dikasih', 'pengamanan', 'yang', 'lebih']",negatif
+"['tolong', 'dong', 'iklan', 'nya', 'mengganggu', 'sekali', 'pedahal', 'saya', 'tidak', 'mempunyai', 'aplikasi', 'shopee']",negatif
+"['fungsinal', 'dan', 'efisiensiaksimal']",positif
+"['komplit', 'shopee', 'mah']",positif
+"['sangat', 'puas']",positif
+"['mantap', 'oke']",positif
+"['amanah', 'mantap']",positif
+[],positif
+"['puas', 'tapi', 'belum', 'pernah', 'dapat', 'produk', 'gratis']",positif
+"['sudah', 'belasan', 'tahun', 'saya', 'memakai', 'shope', 'utk', 'belanjaeh', 'giliran', 'hanya', 'trlambat', 'saja', 'tagihan', 'prmbyran', 'trus', 'akun', 'saya', 'di', 'nonaktifkansmpai', 'skrgpdhal', 'saya', 'sudah', 'bayar', 'tagihan', 'saya', 'yg', 'trlambat']",negatif
+"['shopee', 'mantep']",positif
+"['saya', 'belum', 'pahami', 'apk', 'ini', 'mohon', 'penjelasannya', 'min']",positif
+"['lemot', 'nya', 'ga', 'ngotak', 'sumpah', 'masa', 'makin', 'di', 'upgrade', 'makin', 'lemot', 'sih', 'masa', 'tiap', 'hari', 'ngelag', 'mulu', 'tiba²', 'keluar', 'aplikasi', 'sndiri', 'sampe', 'kapan', 'kaya', 'gini', 'cape', 'gw', 'lama²', 'sma', 'shopeett']",negatif
+['xx'],negatif
+"['leletnya', 'no', 'lemotnya', 'juga', 'no', 'tepuk', 'tangan', 'dulu']",negatif
+"['suka', 'shope', 'karena', 'discount', 'dan', 'harganya', 'miring', 'barang', 'cepet', 'sampai', 'juga']",positif
+['jelek'],negatif
+"['smua', 'barang', 'yg', 'di', 'psan', 'sesuai', 'dg', 'pesanan']",positif
+"['ada', 'aja', 'dapet', 'kurir', 'males', 'nyari', 'alamat', 'nunggu', 'pesanan', 'hampir', 'sebulan', 'eh', 'ternyata', 'karena', 'dapet', 'kurir', 'pemalas', 'alasannya', 'alamat', 'tidak', 'ditemukan', 'makin', 'kesini', 'makin', 'aneh', 'aja', 'kurir', 'shopee']",negatif
+"['oo', 'oo', 'ku', 'ku', 'ijkjjjjjjjjjiijikkk', 'bbnnnnnmmmnjjjjjjjkkkklll', 'kl', 'kkkkkk', 'klu', 'jk', 'jnn', 'jl', 'mmmmmmnmmmmmmmmmmmmmmmmmmmmgggggghhghhhhhhhhhhhbbb', 'mo', 'ggh', 'mmbbbbbhhhhhhgghgggggggggggggggggwwwwwwwwwwwqqqqqqgllmkkmmmmmmggggggvvvvgggvvvvvvhbbhhhhhhhhjjnnnnnnnnnnnnjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjijjjjjjjjijjjj']",negatif
+['jelas'],positif
+"['belanja', 'lebih', 'praktis']",positif
+"['selalu', 'terbaik', 'dalam', 'maret', 'place']",positif
+['ok'],positif
+['mamtabs'],positif
+"['banyak', 'iklan', 'di', 'hapus', 'aj', 'itu', 'video', 'iklan', 'shopy', 'sangat', 'mengganggu', 'mks']",negatif
+"['bintang', '½', 'kalo', 'ada', 'transaksi', 'checkout', 'aja', 'gagal', 'mulu']",negatif
+['bgus'],positif
+"['bagus', 'lah', 'tuk', 'saat', 'ini', 'walau', 'masih', 'saja', 'ada', 'pedagang', 'error', 'alias', 'nakal', 'yg', 'menjengkelkan', 'sampai²', 'pengajuan', 'shopee', 'leter', 'blm', 'pernah', 'disetujui']",positif
+"['lemot', 'bgt', 'spaylatter', 'gak', 'bisa', 'dibuka', 'kecewa']",negatif
+"['ok', 'punya']",positif
+[],positif
+"['belanja', 'di', 'shopee', 'sangat', 'membantu', 'saya', 'saya', 'puas', 'belanja', 'di', 'shopee']",positif
+"['perbanyak', 'voucher', 'lagi', 'yah']",positif
+"['shopee', 'memang', 'ok']",positif
+"['shopee', 'is', 'the', 'best']",positif
+"['perbaiki', 'lagi', 'jangan', 'pakai', 'reels', 'video', 'hanya', 'untuk', 'menambah', 'beban', 'aplikasi']",negatif
+"['makin', 'loyo', 'aja', 'nieee']",negatif
+['ok'],positif
+['payah'],negatif
+"['tiap', 'ada', 'masalah', 'kalo', 'nanya', 'cust', 'seringnya', 'cuma', 'kasi', 'info', 'ga', 'kasi', 'problem', 'solving', 'yang', 'jelas', 'dan', 'terlaksana', 'jadi', 'masalah', 'cuma', 'dianalisa', 'aja', 'ga', 'ada', 'solusi', 'tepat', 'guna', 'ada', 'pun', 'solusinya', 'butuh', 'waktu', 'lama', 'ga', 'cepet', 'waktunya']",negatif
+"['murah', 'meriah']",positif
+"['bagusss', 'dan', 'parbaikin', 'lgii']",positif
+"['limit', 'spaylater', 'lama', 'naiknya']",negatif
+"['bagus', 'dan', 'cepat']",positif
+"['gabung', 'sama', 'go-pay', 'tapi', 'gak', 'pernah', 'ada', 'gratis', 'ongkir', 'go-send', 'huffffgak', 'kaya', 'apk', 'sebelahpelit', 'apa', 'meditttt']",negatif
+"['lemot', 'apkny', 'jaringn', 'bgus', 'ttp', 'jg', 'lemot', 'pdhal', 'enk', 'belnja', 'lewat', 'sini']",negatif
+"['shopee', 'parah', 'masa', 'nggak', 'bisa', 'login', 'di', 'perangkat', 'baru', 'pengenalan', 'wajah', 'selalu', 'gagal', 'hadeuh', 'auto', 'pindah', 'ke', 'si', 'biru']",negatif
+"['terlalu', 'mengganggu']",negatif
+"['lagu', 'kenangan', 'deumersis']",positif
+"['sangat', 'baik']",positif
+"['selalu', 'ada', 'iklan']",negatif
+['ok'],positif
+['bagus'],positif
+"['sangat', 'membantu']",positif
+"['lelet', 'apk', 'nya']",negatif
+"['aplikasi', 'terasa', 'semakin', 'berat', 'loading', 'lamaa']",negatif
+[],positif
+"['hay', 'rekan', 'shope', 'mohon', 'maaf', 'ini', 'saya', 'sudah', 'bayar', 'spaylater', 'tanggal', 'kemarin', 'masih', 'ada', 'tagihan', 'dapat', 'email', 'pengembalian', 'dana', 'terus', 'yang', 'tagiha', 'nya', 'nambah', 'terus', 'nih', 'bunga', 'nya', 'gmna', 'dong']",negatif
+['ok'],positif
+['aku'],positif
+"['ill', 'and', 'seeing', 'muncul']",negatif
+['good'],positif
+"['ok', 'sangat', 'bagus']",positif
+"['semoga', 'sukses', 'selalu']",positif
+"['shopee', 'memang', 'jos', 'gandos', 'sukses', 'terus', 'shopee']",positif
+"['sangat', 'memudahkan', 'untuk', 'mencari', 'barang']",positif
+"['gk', 'tausoalny', 'bgs', 'aj']",positif
+"['aplikasinya', 'semakin', 'berat', 'nguras', 'memory', 'banget']",negatif
+"['good', 'app']",positif
+"['mantap', 'sekarang', 'ada', 'shoppe', 'saya', 'menjadi', 'lebih', 'ringan', 'karna', 'tinggal', 'cekout', 'saja', 'kalau', 'cocok']",positif
+"['aplikasi', 'tidak', 'berguna', 'karna', 'ngak', 'bisa', 'di', 'download']",negatif
+"['maaf', 'tapi', 'kenapa', 'semakin', 'lola', 'ya', 'jaringan', 'internet', 'sudah', 'stabil']",negatif
+"['makin', 'lemot']",negatif
+"['good', 'luck']",positif
+"['okeee', 'bangettt']",positif
+['terpercaya'],positif
+['bagus'],positif
+"['videonya', 'hanya', 'bikin', 'berat', 'aplikasi', 'aja', 'kenapa', 'nggak', 'fokus', 'jualan', 'aja', 'tambah', 'ada', 'game', 'lagi', 'makin', 'berat']",negatif
+['mantap'],positif
+"['sangat', 'menyenangkan']",positif
+['mantap'],positif
+"['bagus', 'apk', 'nya']",positif
+"['iklan', 'mulu', 'kaga', 'seru', 'lagi', 'maen', 'iklan', 'shopee', 'muluu', 'kesel', 'bat']",negatif
+['sopy'],positif
+['bagus'],positif
+"['perbanyak', 'gratis', 'ongkir', 'dan', 'kalau', 'bisa', 'dikasi', 'info', 'nomor', 'telfon', 'kurir', 'yg', 'bawa', 'paket', 'nya', 'terima', 'kasih', 'shoppe', 'maju', 'trus']",positif
+"['memang', 'shopee', 'sangat', 'bagus']",positif
+"['sangat', 'membantu']",positif
+"['aku', 'selamatkan']",positif
+"['dikit', 'beet', 'gratis', 'ongkirnya', 'kak']",negatif
+['bagus'],positif
+"['tolong', 'tambahkan', 'fitur', 'tema', 'gelap', 'nya', 'terimakasih']",positif
+"['sangat', 'puas', 'belanja', 'disini']",positif
+"['kerja', 'bagus']",positif
+"['aplikasi', 'terasa', 'berat']",negatif
+"['keren', 'banget', 'apk', 'yang', 'sangat', 'membantu']",positif
+['good'],positif
+['top'],positif
+"['sopi', 'aku', 'mau', 'cekot', 'barang', 'tp', 'gratis', 'boleh', 'gx', 'sich', 'xixixi', 'ngakak', 'abiez']",positif
+['terbaik'],positif
+"['apk', 'nya', 'bagusbanyak', 'diskon', 'dan', 'promo', 'menarik']",positif
+"['kecewa', 'selalu', 'ikutan', 'event', 'tapi', 'gak', 'menang²', 'jangan²', 'semua', 'udah', 'di', 'setting', 'cuma', 'rekannya', 'doang', 'di', 'pilih', 'waspada', 'kalian', 'php', 'in', 'pelangganmu', 'yang', 'fakir', 'miskin', 'pejuang', 'receh', 'itu', 'dosa', 'besar', 'buat', 'loe', 'pade', 'tanggung']",negatif
+"['sangat', 'baik']",positif
+"['aplikasi', 'yg', 'sngt', 'aq', 'favorit', 'kan', 'shopee']",positif
+"['suka', 'banget', 'klau', 'freong']",positif
+"['saya', 'suka', 'dengan', 'alpikasi', 'shopep']",positif
+"['mantappppp', 'pol']",positif
+"['sangat', 'membantu']",positif
+"['memuaskan', 'slalu']",positif
+['ok'],positif
+['ok'],positif
+"['barang', 'nya', 'baguus']",positif
+"['shopee', 'ok', 'buat', 'kita', 'kita', 'kaum', 'sudra']",positif
+"['tolong', 'produk', 'vape', '/rokok', 'elektrik', 'di', 'ada', 'kan', 'giliran', 'alkohol', 'bisa', 'ketemu', 'kontlo']",negatif
+['oke'],positif
+"['shoppee', 'kok', 'nakal', 'banget', 'sih', 'kamu', 'iku', 'sumpa', 'pacarku', 'jadi', 'badmood', 'gara', 'gara', 'ga', 'dpat', 'flashsale', 'kalo', 'bikin', 'flash', 'itu', 'yang', 'banyak', 'gini', 'pacarku', 'kecewa', 'nangis', 'badmood', 'takasih', 'ranting', 'satu', 'kalo', 'misal', 'pacalku', 'udah', 'ketawa', 'gara', 'gara', 'kamu', 'takasih', 'bintang']",negatif
+['buruk'],negatif
+['bagus'],positif
+"['buruk', 'dalam', 'pengiriman', 'lambat']",negatif
+"['kenapa', 'saya', 'tidak', 'bisa', 'memasukkan', 'alamat', 'saya', 'itu', 'shopee', 'tolonglah']",negatif
+"['sangat', 'membantu', 'sekali']",positif
+"['lebih', 'baik']",positif
+['bintang'],positif
+"['ok', 'bnigit']",positif
+['bagus'],positif
+['bagus'],positif
+['baik'],positif
+"['sdh', 'yg', 'kesekian', 'blanja', 'di', 'shopeetrims', 'promonyatrims', 'pelayanannyasukses', 'to', 'shopee']",positif
+"['bintang', 'yg', 'berbicara']",positif
+"['bintang', 'yg', 'kurang', 'karena', 'aplikasi', 'masih', 'berisi', 'macam²', 'dan', 'berukuran', 'besar', 'saat', 'diinstall', '>', 'mb']",negatif
+"['suka', 'banget', 'belanja', 'di', 'shoppe', 'berka', 'selalu', 'yah']",positif
+"['aplikasi', 'terberat', 'yg', 'pernah', 'ada']",negatif
+"['maaf', 'cuma', 'bisa', 'ngasih', 'bintang', 'segitu', 'soalnya', 'apk', 'shopee', 'makin', 'lambat']",negatif
+"['sangat', 'bermanfaat', 'untuk', 'belanja', 'onlline']",positif
+"['bagus', 'banget', 'kalo', 'mesen', 'barang', 'nya', 'cepet', 'sampai', 'dan', 'sesuai', 'harapan', 'makan', 'nya', 'aku', 'kasih', 'bintang', 'lima', 'makasih', 'shopee', 'mega', 'elektronik']",positif
+"['perbanyak', 'lagi', 'promonyajangan', 'kasih', 'kendorsemoga', 'kedepannya', 'semakin', 'jaya']",positif
+['oky'],positif
+"['aplikasi', 'jual', 'beli', 'terlengkap']",positif
+"['bagusss', 'banget']",positif
+"['dulu', 'bagus', 'promonya', 'lumayan', 'adil', 'sekarang', 'ribet', 'top', 'up', 'udh', 'bayar', 'biaya', 'tambahan', 'nominal', 'yg', 'masuk', 'jg', 'masih', 'dikurangi', 'lagi', 'dg', 'istilah', 'biaya', 'transaksi', 'lha', 'terus', 'yg', 'kita', 'bayar', 'pas', 'top', 'up', 'itu', 'apa', 'dong', 'mau', 'isi', 'lewat', 'bank', 'pun', 'sering', 'gagal']",negatif
+['ok'],positif
+"['lebih', 'slektif', 'dan', 'tingkatkan', 'keamanan', 'lagi', 'untuk', 'toko²', 'yg', 'kurang', 'terpecaya']",positif
+['rekomendet'],positif
+['syukaaaaaa'],positif
+['baik'],positif
+"['woy', 'jangan', 'iklan', 'mulu', 'la', 'liat', 'tik', 'tok', 'gk', 'bisa']",negatif
+"['aplikasinya', 'lelet', 'ngebug', 'mau', 'belanja', 'susah', 'bisa', 'di', 'pencet', 'padahal', 'klo', 'buka', 'aplikasi', 'lain', 'gk', 'ngebug', 'maaf', 'unistaal', 'lgi', 'tolong', 'diperbaiki', 'lg', 'biar', 'mudah', 'berbelanja', 'maaf', 'tak', 'ksi', 'bintang']",negatif
+"['aplikasi', 'ini', 'sangat', 'bagus', 'dan', 'aman', 'ga', 'ada', 'penjual', 'yg', 'suka', 'menipu', 'pembeli']",positif
+['mantaap'],positif
+"['aplikasi', 'apasih', 'ajg', 'harus', 'ada', 'download', 'fitur', 'bagian', 'pembayaranhapus', 'aja', 'fiturnya', 'ribet']",negatif
+[],positif
+"['bagus', 'saya', 'suka', 'untuk', 'saat', 'ini', 'tidak', 'ada', 'masalah', 'saya', 'suka', 'dengan', 'pelayanan', 'shoopee', 'dan', 'berbelanja', 'di', 'shopee']",positif
+"['cukup', 'baik']",positif
+"['semoga', 'spaylater', 'saya', 'bisa', 'digunakan']",positif
+['bagus'],positif
+"['good', 'apk']",positif
+['mantap'],positif
+['lemot'],negatif
+"['aplikasi', 'nya', 'agak', 'lemot', 'sih', 'tp', 'gpp', 'tetap', 'menikmati', 'berbelanja', 'tingkatkan', 'lagi', 'ya']",positif
+"['pengiriman', 'lebih', 'cepat', 'terimakasih', 'shopee']",positif
+"['dijamin', 'mudah', 'dan', 'murah']",positif
+"['ya', 'cukup', 'puas']",positif
+"['tukang', 'paket', 'nya', 'gatau', 'tempat', 'terus', 'ajah', 'gagal', 'pengiriman', 'pdahal', 'alamt', 'ada', 'jelas', 'kalau', 'gaada', 'alamat', 'baru', 'gak', 'nyampe', 'nyampe', 'paketaan', 'jelas', 'ini', 'ada', 'alamat', 'tapi', 'gak', 'nyampe', 'eror']",negatif
+['bagus'],positif
+"['aplikasi', 'ini', 'membantu', 'buat', 'belanja', 'online', 'dan', 'menghasilkan', 'koin', 'jika', 'melihat', 'vidio', 'dan', 'mengundang', 'teman']",positif
+['bagus'],positif
+"['mantap', 'shopee']",positif
+"['bagi', 'saya', 'belanja', 'online', 'di', 'shopee', 'sangat', 'bagusss', 'karna', 'aq', 'senengnya', 'banyak', 'promo', 'ongkirnya', 'juga', 'dan', 'yah', 'sekarang', 'klo', 'beli', 'barang', 'sampainya', 'tuh', 'hampir', 'semingguan', 'tapi', 'karna', 'aq', 'tipe', 'org', 'yg', 'gak', 'sabaran', 'jadi', 'klo', 'mau', 'beli', 'barang', 'di', 'shopee', 'kadang', 'beli', 'jauh²', 'hari', 'deh', 'dan', 'kalau', 'tidak', 'terlalu', 'mendesak', 'juga', 'it', ""'"", 'okay', 'sih', 'bagi', 'aq']",positif
+"['nyaman', 'juga', 'belanja', 'shopee', 'cukup', 'terbantu', 'karna', 'ada', 'paylater', ""'"", 'cuman', 'limit', 'nya', 'susah', 'kali', 'naik']",positif
+"['semoga', 'kedepannya', 'shopie', 'bisa', 'lbh', 'baik', 'lagi', 'pesan', 'saya', 'penjual', 'yg', 'nakal', 'suka', 'mengakali', 'pembeli', 'hrs', 'lbh', 'diperhatikan', 'lagisoalnya', 'byk', 'penjual', 'mengatas', 'namakan', 'pakai', 'hadiah', 'terus', 'byk', 'konsumen', 'yg', 'ketipucia', 'you', 'shopie']",negatif
+"['enak', 'nyaman']",positif
+"['shopee', 'skrng', 'kenapa', 'sih', 'padahal', 'ada', 'paketan', 'dan', 'jaringan', 'juga', 'lancar', 'lancar', 'aja', 'tapi', 'knp', 'kadang', 'suka', 'ga', 'muncul', 'gambar', 'nya', 'atau', 'loading', 'mulu', 'ya']",negatif
+"['kenapa', 'kak', 'saya', 'paket', 'ny', 'dibatalkan', 'ya', 'padahal', 'kan', 'saya', 'dirumah', 'ada', 'sudah', 'menunggu', 'langsung', 'batal', 'aja', 'telpon', 'kan', 'bisa-']",negatif
+"['iklan', 'kau', 'menyebalkan']",negatif
+['lemot'],negatif
+['good'],positif
+"['makin', 'lemot', 'euy', 'lieur']",negatif
+"['lumyn', 'lahj']",positif
+['good'],positif
+"['makin', 'berat', 'aplikasinya']",negatif
+['aaaaaàààaaa'],negatif
+"['suka', 'banget', 'apa', 'tpi', 'aqw', 'gk', 'negerti', 'sistem', 'yang', 'tulisannya', 'promo', 'rbu', 'pas', 'diklikjadi', 'gk', 'pham', 'caranya']",positif
+['hantu'],positif
+"['live', 'dihilangkan', 'saja']",negatif
+"['pinjem', 'udah', 'bayar', 'padahal', 'tapi', 'masih', 'ada', 'tagihannya', 'udah', 'di', 'kirim', 'juga', 'buktinya', 'di', 'fb', 'di', 'whatsapp', 'tapi', 'ga', 'di', 'respon', 'sama', 'sekali']",negatif
+"['alhamdulillah', 'aplikasi', 'ini', 'membantu', 'kita', 'dalam', 'berbelanja', 'terima', 'kasih', 'banyak', 'atas', 'bantuannya', 'untuk', 'memudahkan', 'kita', 'dalam', 'berbelanja']",positif
+"['topsaya', 'suka', 'gratis', 'nya', 'karna', 'saya', 'penguna', 'dari', 'desa', 'jadi', 'bisa', 'meringankan', 'ongkir', 'tuk', 'shopee', 'jgn', 'gratis', 'onkir', 'aja', 'mainkan', 'diskon', 'potong', 'langsung', 'setiap', 'bulan', 'seperti', 'tk', 'pedia', 'minin', 'blnja', 'jadi', 'ptg', 'langsung', 'byr', 'seperti', 'tik', 'tok', 'shop', 'toko', 'pedia', 'dan', 'lazada', 'gila', 'gilaan', 'kalo', 'kasi', 'potong', 'langsung', 'harga', 'brg']",positif
+"['pengiriman', 'cepat']",positif
+"['shoopee', 'memang', 'mantap']",positif
+['lucu'],positif
+"['kakk', 'aplikasi', 'kenapa', 'makin', 'lemot', 'ya', 'abis', 'diperbarui']",negatif
+['membantu'],positif
+"['moga', 'lo', 'gda', 'yg', 'make', 'ajg', 'gua', 'lgi', 'war', 'malah', 'nimbul', 'iklan', 'lo', 'bngst']",negatif
+"['oke', 'bos']",positif
+['mantap'],positif
+['puas'],positif
+['bagud'],positif
+['mantapl'],positif
+['lemot'],negatif
+"['makin', 'lama', 'makin', 'super', 'lemot', 'app', 'nya', 'sangat', 'kecewa', 'tidak', 'seperti', 'yg', 'dulu', 'pdahal', 'jaringn', 'full']",negatif
+"['jarang', 'kecewa']",positif
+"['sangat', 'memuaskan']",positif
+"['sangat', 'ngelag', 'padahal', 'sudah', 'di', 'update', 'jaringan', 'pun', 'lancar', 'bahkan', 'mau', 'login', 'ke', 'akun', 'lain', 'aja', 'susah', 'tolong', 'diperbaiki', 'lagi', 'min']",negatif
+"['kok', 'makin', 'update', 'makin', 'berat', 'makin', 'lelet', 'makin', 'banyak', 'bug', 'nya', 'pas', 'main', 'gensin', 'impact', 'malah', 'lebih', 'lancar', 'no', 'delay']",negatif
+"['iklan', 'banyak']",negatif
+['baguss'],positif
+['gut'],positif
+"['bagus', 'bangetharga', 'murah', 'dan', 'mudah', 'digunakan']",positif
+['bagus'],positif
+"['bagus', 'tapi', 'lama', 'kelamaan', 'pegiriman', 'lama', 'sampai']",positif
+"['mantab', 'belanja', 'di', 'shopee', 'ayo', 'buruan', 'belanja', 'nunggu', 'kapan', 'lagi']",positif
+"['baguss', 'cepat', 'datang', 'nya']",positif
+"['bagus', 'tapi', 'banyak', 'penipu', 'kyk', 'aku', 'mau', 'beli', 'barang', 'dtg', 'nya', 'yg', 'lain']",positif
+"['game', 'lotnok']",negatif
+"['sukses', 'selalu', 'shopee']",positif
+['ok'],positif
+"['ya', 'allah', 'lelet', 'bangeeeet', 'apalg', 'yang', 'kesabaran', 'ku', 'setipis', 'tisu', 'ini', 'ini', 'apk', 'nya', 'berat', 'gara', 'kebanyakan', 'fitur', 'apa', 'aku', 'kasih', 'bintang', 'saja']",negatif
+"['seru', 'bisa', 'belnja']",positif
+[],positif
+['baik'],positif
+['bagus'],positif
+"['sering', 'ngelag', 'kesel', 'produk', 'nya', 'juga', 'itu', 'terus', 'yang', 'yg', 'muncul']",negatif
+"['shopee', 'nya', 'bangkrut', 'gak', 'jelas', 'bikin', 'shoppe', 'paylater', 'aja', 'ribet', 'sekarang', 'yang', 'ujung', 'ujung', 'nya', 'malah', 'coba', 'lagi', 'tulisan', 'nya', 'shoppe', 'bangkrut']",negatif
+"['lho', 'tt']",negatif
+"['biar', 'apa', 'si', 'ada', 'shopee', 'vidio', 'segala', 'bikin', 'aplikasi', 'makin', 'berat', 'aja', 'makin', 'lemot', 'gaketulungan']",negatif
+"['lemooottt', 'aplikasinya']",negatif
+"['sumpah', 'kecewa', 'bgt', 'pembatalan', 'pesanan', 'tuh', 'ga', 'di', 'acc', 'pdhl', 'akun', 'dengan', 'label', 'shopeemall', 'sudah', 'dijelaskan', 'kalo', 'alamatnya', 'salah', 'pembelian', 'lewat', 'shopeepay', 'semuanya', 'lewat', 'shopee', 'tapi', 'service', 'ke', 'pembeli', 'kok', 'kaya', 'gini', 'bye', 'ga', 'akan', 'pake', 'shopee', 'lagi', 'saran', 'buat', 'user', 'lainnya', 'cek', 'dlu', 'deh', 'alamat', 'dan', 'kelengkapannya', 'shopee', 'ga', 'tanggung', 'jwb', 'soal', 'pembatalan']",negatif
+['oke'],positif
+"['aplikasinya', 'beraaaaaaattttt', 'alias', 'lemoootttttt', 'mending', 'laz', 'lebih', 'ringan']",negatif
+"['sangat', 'bagus']",positif
+"['aplikasinya', 'aga', 'lelet', 'jadi', 'suka', 'kesel', 'jadinya', 'mau', 'blanja', 'tapi', 'aplikasi', 'lemot', 'masih', 'cepetan', 'yg', 'sebelah']",negatif
+"['belanjnya', 'cepat', 'dan', 'mudah']",positif
+"['good', 'job']",positif
+"['good', 'job']",positif
+"['puas', 'bgt', 'blnja', 'di', 'shopeehrga', 'lbh', 'murah', 'dan', 'pelayanan', 'oketrmksh', 'dan', 'sukses', 'trs', 'ya']",positif
+"['mempermudah', 'belanja', 'ada', 'gratis', 'ongkirnya', 'lagi']",positif
+['asu'],negatif
+"['bagus', 'bngetmau', 'apa', 'aja', 'tinggal', 'ki']",positif
+"['aplikasi', 'yang', 'sangat', 'amat', 'bermanfaat', 'dan', 'berguna', 'sekali']",positif
+"['udh', 'ckup', 'ok', 'lah']",positif
+"['aplikasi', 'berat', 'dan', 'sering', 'lag']",negatif
+"['seneng', 'deh', 'punya', 'shopee', 'berasa', 'punya', 'mall', 'pribadi']",positif
+"['gua', 'heran', 'sama', 'shopemakin', 'kesini', 'makin', 'berat', 'aja', 'buka', 'beranda', 'aja', 'gk', 'pda', 'kliatan', 'foto', 'produknyapadahal', 'sinyal', 'wifi', 'udh', 'kencenggitu', 'kdang', 'suka', 'kecewa', 'mau', 'beli', 'apa', 'lambat', 'bangettlong', 'dong', 'dibenerin', 'lagi', 'kya', 'fitur', 'video', 'jelas', 'ilangin', 'ajamalahan', 'kaya', 'tiktok', 'jdinya', 'ada', 'video', 'bukan', 'jualan', 'malahan', 'video', 'lain']",negatif
+"['mantap', 'shoope', 'paling', 'hebat', 'semoga', 'sukses', 'dan', 'jaya', 'terus']",positif
+"['dua', 'kali', 'beli', 'menggunakan', 'kurir', 'shopee', 'express', 'barang', 'tidak', 'pernah', 'sampai']",negatif
+"['gratis', 'ongkir', 'emg', 'selalu', 'ada', 'tp', 'biaya', 'penanganan', 'semakin', 'naik', 'ku', 'rasa', 'di', 'perbaiki', 'dong', 'tolong']",negatif
+"['apk', 'ny', 'lemot', 'berat']",negatif
+"['sangat', 'memuaskan', 'terimakasihh']",positif
+['good'],positif
+"['shoppe', 'mantap']",positif
+['luwarbiyasa'],positif
+"['memang', 'oke']",positif
+"['alham', 'dullillah', 'pesanan', 'nya', 'dh', 'sampai', 'mudah', 'an', 'awet', 'bisa', 'order', 'lg']",positif
+"['saya', 'senang', 'sekali', 'berbelanja', 'di', 'shopee', 'bisa', 'gratis', 'ongkir', 'tanpa', 'minimum', 'belanja', 'thanks', 'shopee', 'smoga', 'sukses', 'terus', 'ya', 'maaf', 'gak', 'bisa', 'kasih', 'bintang', 'soalnya', 'msh', 'suka', 'lemot', 'aplikasinya']",positif
+"['tiga', 'dulu', 'klo', 'bagus', 'saya', 'tambah']",positif
+['lelet'],negatif
+"['sangat', 'nyaman']",positif
+"['santap', 'bro']",positif
+"['sungguh', 'sangat', 'membantu', 'setelah', 'memakai', 'aplikasi', 'shopee', 'belanja', 'lebih', 'mudah', 'dan', 'enak']",positif
+"['cuma', 'shopeepaynya', 'penanganan', 'cs', 'terlalu', 'lama', 'semuanya', 'mantab']",positif
+['good'],positif
+"['tidak', 'mengecewakan', 'pesanan', 'sellu', 'cocok']",positif
+['nice'],positif
+"['aku', 'suka', 'belanja', 'disini', 'tapi', 'terkadang', 'lelet', 'banget', 'gak', 'bisa', 'lihat', 'barang', 'dan', 'terkadang', 'susah', 'utk', 'checkout']",positif
+"['aktivasi', 'spinjam', 'gak', 'bisa', 'spaylatter', 'katanya', 'ada', 'data', 'yang', 'gak', 'sesuai', 'pas', 'telfon', 'ga', 'ada', 'data', 'saya', 'yang', 'gak', 'sesuai', 'semua', 'sesuai', 'kebijakan', 'perusahaan', 'harusnya', 'bisa', 'membantu', 'nasabahnya', 'tapi', 'malah', 'gak', 'bisa', 'di', 'gunakan', 'transaksi']",negatif
+"['ayo', 'belanja', 'di', 'shopee', 'mumpung', 'lagi', 'ada', 'diskon', 'super', 'gede']",positif
+['bagus'],positif
+"['mkaaih', 'selalu', 'pakai', 'jasa', 'shopee']",positif
+['mantap'],positif
+"['nyaman', 'belanja', 'di', 'shopee']",positif
+"['gk', 'semaksimal', 'awaldiupdate', 'malah', 'ngelag', 'bgtdikira', 'sinyalnya', 'yg', 'bapukbuka', 'aplikasi', 'lain', 'lancar', 'kenceng', 'ajapas', 'shopee', 'malah', 'ngelag', 'kaya', 'yg', 'berat']",negatif
+['buruk'],negatif
+"['makin', 'bobrok']",negatif
+"['aplikasi', 'belanja', 'online', 'yg', 'bagus', 'pengrimannya', 'juga', 'cepat', 'dan', 'kurirnya', 'ramah', 'berkembang', 'terus', 'yah']",positif
+"['spam', 'iklan', 'trus']",negatif
+['fungsional'],positif
+"['gila', 'lu', 'shopee', 'ngebanned', 'aku', 'sembarangan', 'pelanggan', 'apa', 'juga', 'gak', 'jelas', 'customer', 'servis', 'bilang', 'kesalahan', 'bukan', 'dari', 'akun', 'saya', 'ditanyain', 'ad', 'kejelasan', 'sama', 'sekali', 'akun', 'jualan', 'ngidupin', 'banyak', 'org', 'diblok', 'sampe', 'hari', 'ad', 'penjualan', 'sama', 'sekali', 'gila', 'banget', 'gila', 'lu', 'bsa', 'handle', 'permasalahan', 'gak', 'solutif', 'akan', 'saya', 'ubah', 'bintang', 'ini', 'sebelum', 'lu', 'benerin', 'kinerja', 'tim', 'terkait', 'lu', 'ngatasi', 'satu', 'akun', 'aj', 'bisa']",negatif
+['mantap'],positif
+['bagusnya'],positif
+"['setelah', 'diupdate', 'malah', 'lemot', 'gini', 'buat', 'video']",negatif
+"['aplikasi', 'tolol', 'mending', 'lajada', 'keren', 'emang', 'sopi', 'tolol']",negatif
+[],positif
+['mantap'],positif
+"['heeeii', 'ini', 'knapa', 'sdh', 'bbpa', 'hari', 'kek', 'gini', 'mau', 'live', 'shoppe', 'mau', 'co', 'pasti', 'ada', 'pemberitahuan', 'sedang', 'memuat', 'fitur', 'silahkan', 'tunggu', 'kenapa', 'ini', 'tolong', 'secepatnya', 'perbaiki']",negatif
+"['sekelas', 'shopee', 'mall', 'ngirim', 'barang', 'rusak', 'kapokk']",negatif
+"['iklanny', 'ngeganggu']",negatif
+"['enak', 'bener', 'njir', 'yang', 'hadiah', 'gratisan', 'beneran', 'dong']",positif
+"['saya', 'tidak', 'bisa', 'menerima', 'pesan', 'kode', 'otp', 'padahal', 'saya', 'menggunakan', 'no', 'masih', 'aktif', 'sinyal', 'bagus', 'shopee', 'update', 'yang', 'terbaru', 'bahkan', 'saya', 'sudah', 'hapus', 'data', 'tetap', 'tidak', 'bisa', 'hadehhhhhh', 'merugikan', 'si', 'pembeli', 'dan', 'si', 'penjual']",negatif
+['mantap'],positif
+"['hati', 'barang', 'rusak']",negatif
+"['untuk', 'aplikasi', 'sudah', 'cukup', 'bagus', 'tapi', 'masukan', 'saran', 'buat', 'shopee', 'tolong', 'tab', 'chat', 'toko', 'dan', 'chat', 'kita', 'sebagai', 'pembeli', 'dipisah', 'donk', 'jangan', 'dicampur', 'gini', 'jadi', 'pusing', 'lihatnya', 'apalagi', 'kalau', 'chat', 'udah', 'banyak', 'sama', 'seperti', 'tab', 'penilaian', 'yang', 'dipisah', 'antara', 'penilaian', 'toko', 'dan', 'penilaian', 'kita', 'sebagai', 'pembeli', 'mohon', 'saran', 'ini', 'dipertimbangkan', 'thanks']",positif
+[],positif
+['bagus'],positif
+"['shopee', 'mega', 'big', 'sale']",positif
+"['mantap', 'mmng', 'shoope']",positif
+"['pengirim', 'cepat', 'dan', 'kurir', 'nya', 'ramahngk', 'rugi', 'berlangganan', 'di', 'shopeeok', 'banget']",positif
+"['tinnkat', 'kan']",positif
+"['ko', 'ubj', 'kutu', 'bu']",negatif
+"['bagus', 'untuk', 'mwmbeli', 'kebutuhan']",positif
+"['sangat', 'membantu']",positif
+['baguss'],positif
+"['oke', 'barang', 'nya', 'aman']",positif
+"['payah', 'kenapa', 'shopee', 'sekarang', 'gak', 'bisa', 'cod', 'padahal', 'paket', 'selalu', 'ku', 'bayar']",negatif
+"['shoppe', 'pelit', 'tidak', 'ada', 'gratis', 'ongkir', 'walaupun', 'event', 'saya', 'mau', 'beli', 'instan', 'jam', 'tapi', 'harus', 'pakek', 'minimal', 'belanja', 'saya', 'kasih', 'bintang', 'gak', 'kayak', 'dulu']",negatif
+"['setelah', 'di', 'update', 'ternyata', 'makin', 'lelet']",negatif
+"['punya', 'saldo', 'di', 'shopepay', 'mau', 'transfer', '/', 'cek', 'saldo', 'aja', 'susah', 'bgt', 'lemot', 'bgt', 'udah', 'di', 'update', 'di', 'download', 'lagi', 'juga', 'masih', 'lemot', 'udah', 'refresh', 'berkali', 'kali', 'di', 'waktu', 'yg', 'berbeda', 'masih', 'sama', 'aja']",negatif
+"['penjualan', 'toko', 'online', 'dg', 'respon', 'yg', 'baik', 'cepat', '&', 'terpercaya']",positif
+"['huft', 'shopee', 'makin', 'kesini', 'semakin', 'jelek', 'dari', 'yg', 'banyak', 'bug', 'seperti', 'saat', 'mau', 'mengganti', 'nama', 'akun', 'tetapi', 'tidak', 'bisa', 'baru', 'buat', 'akun']",negatif
+['good'],positif
+['dv'],negatif
+"['oke', 'lah']",positif
+"['dari', 'apk', 'sih', 'bagus', 'cuma', 'dari', 'pihak', 'shopee', 'express', 'lambat', 'dalam', 'pengiriman', 'niat', 'hati', 'nunggu', 'tapi', 'malah', 'di', 'bikin', 'kesel', 'krna', 'pihak', 'kurir', 'yg', 'gak', 'ada', 'komunikasi', 'sama', 'customer', 'khusus', 'buat', 'shopee', 'express', 'slawi', 'kab', 'tegal', 'mending', 'di', 'bubarin', 'semua', 'management', 'banyak', 'yg', 'komplain', 'perihal', 'pengirimannya', 'apa', 'memang', 'pihak', 'kurir', 'di', 'sini', 'malesan', 'pdhl', 'di', 'gaji', 'tapi', 'gk', 'mikirin', 'pihak', 'apk', 'yg', 'membuat', 'nama', 'apk', 'jadi', 'buruk', 'gara', 'oknum', 'yang', 'malesan', 'mending', 'perbaiki', 'lagi', 'management', 'di', 'slawi', 'jelek', 'banget']",positif
+"['cepat', 'dan', 'sesuai', 'pesanan']",positif
+"['dengan', 'adanya', 'shopee', 'bersama', 'fitur', 'nya', 'yg', 'oke', 'saya', 'benar', 'benar', 'merasa', 'terbantu', 'dlm', 'berbisnis']",positif
+['trimakasih'],positif
+['iu'],ngatif
+['ok'],positif
+['baik'],positif
+"['oke', 'lah', 'harga', 'murah', 'murah']",positif
+"['shopee', 'kok', 'bekukan', 'payliternya', 'bayar', 'gak', 'tlat']",negatif
+"['makin', 'kesini', 'makin', 'lelet', 'padahal', 'jaringan', 'stabil']",negatif
+"['gajelas', 'tiba', 'tiba', 'buka', 'shopee', 'kok', 'ada', 'daftar', 'pengikut', 'dan', 'diikuti', 'tanpa', 'adanya', 'konfirmasi', 'dari', 'saya', 'selaku', 'pengguna', 'padahal', 'saya', 'tidak', 'pernah', 'menambahkan', 'pertemanan', 'apapun', 'tolong', 'hargai', 'privasi', 'walaupun', 'terhubung', 'terhadap', 'akun', 'sosmed', 'bukan', 'berarti', 'pihak', 'shopee', 'langsung', 'membuat', 'mereka', 'menjadi', 'teman', 'juga', 'di', 'shope', 'hargai', 'privasi']",negatif
+"['sangn', 'membantu', 'dalam', 'belanja']",positif
+"['ok', 'deh', 'shopee', 'sarannya', 'cuma', 'sekali', 'kasih', 'gift', 'dong', 'buat', 'pelanggan', 'setia', 'yaa']",positif
+['bagus'],positif
+"['saya', 'kasi', 'bintang', 'karna', 'sitem', 'cod', 'berkurang', 'masa', 'mau', 'beli', 'ribu', 'aja', 'mau', 'tf', 'dulu']",negatif
+"['kurirny', 'mohon', 'untuk', 'diperhatikan', 'lg', 'tidak', 'menghubungi', 'dulu', 'asal', 'menaruh', 'barang', 'ke', 'alamat', 'yang', 'salah']",negatif
+"['bangusssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss', 'bangettttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt']",positif
+"['plusminesbelanjaonline', 'minesnya', 'barang', 'nya', 'aja', 'belumkita', 'pegang', 'dibatalkanngga', 'bisa', 'padahalcuma', 'karena', 'mau', 'ganti', 'sistem', 'pembayaran', 'sudah', 'langganan', 'pula', 'tapi', 'ngga', 'diijinkan', 'melakukan', 'pembatalan', 'dengan', 'alasan', 'resisudah', 'dicetak']",positif
+"['pelayann', 'buruk', 'pengirimn', 'buruk', 'lewati']",negatif
+"['aplikasi', 'parah', 'berat', 'hp', 'ram', 'aja', 'lemot']",negatif
+"['belanja', 'jadi', 'lebih', 'mudah']",positif
+"['ribettttt', 'masa', 'reset', 'handphone', 'pembayaran', 'shopie', 'di', 'blokir', 'blok']",negatif
+"['suka', 'bgt', 'sama', 'aslinya', 'memudahkan', 'semua', 'orang', 'berbelanja', 'tanpa', 'ribettinggal', 'duduk', 'anteng', 'di', 'rumah', 'paket', 'nyampe', 'deh']",positif
+['josss'],positif
+"['sudah', 'lama', 'belanja', 'masih', 'ad', 'penipuan', 'di', 'sini', 'entah', 'komplotan', 'join', 'sama', 'sophie', 'jualan', 'gak', 'sesuai', 'gakbar', 'kick', 'gak', 'sesuai', 'diskripsi', 'keluar', 'kan', 'ya', 'jual', 'itu', 'aj', 'repot', 'tggu', 'reting', 'banyak', 'lah', 'korban', ""'"", 'gak', 'jelas', 'shopy']",negatif
+"['shopee', 'sangat', 'membantu']",positif
+"['pelayanan', 'bagus']",positif
+"['shopee', 'memang', 'bagus', 'bayak', 'diskon', 'dan', 'gratis', 'ongkir']",positif
+"['apk', 'shopee', 'ini', 'yang', 'terbaik', 'bagi', 'kita', 'semuapelayanan', 'cepat', 'dan', 'tidak', 'merugikan', 'pelanggannya', 'good']",positif
+['bagus'],positif
+"['banyak', 'iklan']",negatif
+[],positif
+['suka'],positif
+['baik'],positif
+"['gk', 'bisa', 'di', 'dowloand', 'me', 'gimna', 'ya']",negatif
+"['sdh', 'terima', 'pesanan', 'lewat', 'shopee', 'lumayan', 'jg', 'krn', 'sdh', 'terjangkau', 'kurir', 'terimakasih', 'shopee']",positif
+"['pelayanan', 'shopee', 'bagus', 'dan', 'alhmdulilah', 'selama', 'ini', 'lancar', 'dan', 'blm', 'pernh', 'dikecewakn']",positif
+['buruk'],negatif
+"['tolong', 'duperbaiki', 'aplikasinya', 'lumayan', 'lemot', 'padahal', 'saya', 'pake', 'kuota']",negatif
+"['semoga', 'terus', 'amanah']",positif
+"['sangat', 'bagus']",positif
+"['bagus', 'sih', 'cuman', 'pas', 'masuk', 'melihat', 'keranjang', 'saya', 'tiba-tiba', 'eror', 'hp', 'saya', 'untung', 'tidak', 'apa', 'apa']",positif
+['loss'],negatif
+"['aplikasi', 'yang', 'bagus', 'buat', 'beli', 'barang', 'dan', 'kebutuhan', 'lainya']",positif
+"['toko', 'online', 'terbaik', 'hingga', 'sekarang', 'yg', 'ada', 'di', 'indonesia']",positif
+"['shopee', 'is', 'the', 'best']",positif
+"['saya', 'sangat', 'senang', 'dan', 'puas']",positif
+"['lelet', 'kale', 'pengiriman', 'sortir', 'kok', 'kaya', 'milih²', 'janda']",negatif
+"['klo', 'pembaruan', 'jangan', 'lemotin', 'si', 'aplikasi', 'nya', 'pembaruan', 'kok', 'lemot', 'banget', 'mau', 'pesen', 'barang', 'juga', 'bikin', 'kesel', 'aja']",negatif
+"['sangat', 'menbantu']",positif
+['ok'],positif
+"['maafkenapa', 'ya', 'ga', 'ada', 'ongkirnya', 'kok', 'aneh', 'ya']",negatif
+"['apk', 'shopy', 'sangat', 'membantu', 'blanja', 'online']",positif
+"['saya', 'daftar', 'sebagai', 'penjual', 'tapi', 'pas', 'saya', 'dah', 'menyelesaikan', 'postingan', 'pertama', 'saya', 'dan', 'mau', 'pencet', 'tombol', 'kirim', 'katanyabatal', 'disimpan', 'itu', 'kenapa', 'ya']",negatif
+"['kalo', 'mau', 'belanja', 'tinggal', 'beli', 'sekarang']",positif
+"['toko', 'penjualan', 'online', 'yang', 'lengkap', 'terpercaya', 'dan', 'sangat', 'memudahkan', 'para', 'pembeli', 'belanja', 'produk', 'indonesia', 'tanpa', 'ribet', 'thanks', 'shopee']",positif
+['hip'],positif
+['bagus'],positif
+"['terima', 'kasih', 'sopi', 'telah', 'membantu', 'perekonomian', 'saya']",positif
+"['bug', 'semakin', 'parah']",negatif
+"['oke', 'sip', 'info', 'nya']",positif
+"['terima', 'kasih', 'shopee', 'telah', 'pelayanan', 'luar', 'biasa']",positif
+"['pelayanan', 'cepat', 'dan', 'bagus']",positif
+"['iklan', 'yang', 'sering', 'muncul', 'sangat', 'mengganngujadi', 'tidak', 'simpatik']",negatif
+"['mengapa', 'aplikasi', 'shoope', 'makan', 'lama', 'makin', 'agak', 'berat', 'gak', 'spt', 'yg', 'dulu']",negatif
+"['suka', 'bingit']",positif
+"['siap', 'pak']",positif
+"['tindak', 'tegas', 'vendor', 'nakal', 'yang', 'tidak', 'bisa', 'returnmerugikan', 'konsumen']",negatif
+"['iklan', 'shopee', 'kok', 'keluar', 'terus', 'hp', 'saya', 'sangat', 'menganggu']",negatif
+['mudah'],positif
+"['good', 'app']",positif
+"['sukses', 'selalu', 'buat', 'shopee', 'dan', 'jangan', 'lupa', 'tambahkan', 'limit', 'spinjam', 'nya']",positif
+"['iklan', 'aplikasi', 'ini', 'menutup', 'layar', 'mengganggu', 'privasi']",negatif
+['uhuy'],positif
+"['shopee', 'doang', 'yg', 'bisa', 'di', 'percaya']",positif
+"['terimakasih', 'om', 'tante', 'sudah', 'menjadi', 'solusi', 'memenuhi', 'ke', 'inginan', 'akau']",positif
+"['bagus', 'aplikasi', 'nya']",positif
+"['apl', 'nya', 'sangat', 'baik']",positif
+"['makin', 'lelet']",negatif
+"['yang', 'bilang', 'aplikasinya', 'lemot', 'berarti', 'hp', 'lu', 'kentang']",positif
+"['shopee', 'gitu']",positif
+"['jadi', 'seller', 'pemula', 'agak', 'susah', 'lakunya', 'ya']",positif
+['mantap'],positif
+"['udah', 'lemot', 'kualitas', 'nya', 'jelek', 'duit', 'bonus', 'ga', 'bisa', 'diambil', 'bisa', 'bisa', 'banyak', 'yang', 'pindah', 'aplikasi', 'nih']",negatif
+"['baik', 'buat', 'belanja', 'tanpa', 'pergi', 'ke', 'toko']",positif
+"['enaknya', 'aplikasi', 'ini', 'banya', 'gratis', 'ongkirnya']",positif
+"['kenapa', 'ya', 'pengajuan', 'paylater', 'nya', 'gabisa', 'gituudah', 'dicoba', 'berkali', 'kali', 'juga', 'tetep', 'sama', 'gabisa', 'jugaapa', 'mungkin', 'kendala', 'atau', 'memang', 'gabolehin', 'utang', 'ini', 'hihi']",negatif
+"['katanya', 'gratis', 'ongkir', 'nyatanya', 'cuma', 'potongan', 'doank', 'mending', 'beli', 'disini', 'lbih', 'murah', 'dri', 'pada', 'beli', 'online', 'gk', 'kelamaan', 'nunggu']",negatif
+"['apk', 'bagus']",positif
+"['sangat', 'luar', 'biasaah']",positif
+"['nyuruh', 'belanja', 'mulu', 'tapi', 'ngasih', 'limit', 'paylater', 'kayak', 'bocah', 'cuma', 'rbdalam', 'sebulan', 'bisa', 'top', 'up', 'gara', 'limit', 'kecil', 'ogah', 'gw', 'belanja', 'kalau', 'ga', 'naik', 'limit']",negatif
+"['apk', 'bagus']",positif
